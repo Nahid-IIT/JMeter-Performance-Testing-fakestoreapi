@@ -1,0 +1,781 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1683971358173,1646,"HTTP Request for ""Get all """,200,OK,cart 2-3,text,true,,1635,123,30,120,https://fakestoreapi.com/carts,1640,0,865
+1683971358512,1652,"HTTP Request for ""Login""",200,OK,Login 4-15,text,true,,854,276,30,120,https://fakestoreapi.com/auth/login,1652,0,526
+1683971358580,1611,"HTTP Request for ""Login""",200,OK,Login 4-17,text,true,,846,276,30,120,https://fakestoreapi.com/auth/login,1611,0,458
+1683971358190,2132,"HTTP Request for ""Login""",200,OK,Login 4-5,text,true,,850,276,28,118,https://fakestoreapi.com/auth/login,2132,0,919
+1683971358349,2024,"HTTP Request for ""Get all""",200,OK,users 3-10,text,true,,3688,123,30,117,https://fakestoreapi.com/users,2015,0,847
+1683971358881,1505,"HTTP Request for ""Login""",200,OK,Login 4-26,text,true,,854,276,27,117,https://fakestoreapi.com/auth/login,1504,0,157
+1683971358173,2246,"HTTP Request for ""Login""",200,OK,Login 4-4,text,true,,852,276,26,116,https://fakestoreapi.com/auth/login,2246,0,867
+1683971358350,2322,"HTTP Request for ""Get all products""",200,OK,products 1-13,text,true,,11326,171,30,115,https://fakestoreapi.com/products,2282,0,1730
+1683971358173,2534,"HTTP Request for ""Get all """,200,OK,cart 2-5,text,true,,1635,123,30,115,https://fakestoreapi.com/carts,2534,0,865
+1683971358156,2605,"HTTP Request for ""Login""",200,OK,Login 4-3,text,true,,854,276,25,115,https://fakestoreapi.com/auth/login,2605,0,1454
+1683971358503,2276,"HTTP Request for ""Get all""",200,OK,users 3-15,text,true,,3702,123,30,114,https://fakestoreapi.com/users,2266,0,1517
+1683971358212,2578,"HTTP Request for ""Get all """,200,OK,cart 2-7,text,true,,1635,123,30,114,https://fakestoreapi.com/carts,2578,0,1442
+1683971358432,2378,"HTTP Request for ""Get all""",200,OK,users 3-13,text,true,,3690,123,30,114,https://fakestoreapi.com/users,2369,0,1001
+1683971358903,1924,"HTTP Request for ""Get all """,200,OK,cart 2-28,text,true,,1635,123,30,114,https://fakestoreapi.com/carts,1923,0,135
+1683971358170,2759,"HTTP Request for ""Get all""",200,OK,users 3-3,text,true,,3692,123,30,114,https://fakestoreapi.com/users,2542,0,868
+1683971358174,2804,"HTTP Request for ""Login""",200,OK,Login 4-1,text,true,,858,276,24,114,https://fakestoreapi.com/auth/login,2804,0,1466
+1683971358199,2800,"HTTP Request for ""Get all """,200,OK,cart 2-6,text,true,,1639,123,30,113,https://fakestoreapi.com/carts,2799,0,2039
+1683971358275,2805,"HTTP Request for ""Login""",200,OK,Login 4-8,text,true,,852,276,23,113,https://fakestoreapi.com/auth/login,2805,0,2029
+1683971360374,761,"HTTP Request for ""Get a single""",200,OK,users 3-10,text,true,,987,125,30,112,https://fakestoreapi.com/users/1,760,0,0
+1683971358769,2404,"HTTP Request for ""Get all """,200,OK,cart 2-20,text,true,,1635,123,30,112,https://fakestoreapi.com/carts,2401,0,1624
+1683971358804,2370,"HTTP Request for ""Get all """,200,OK,cart 2-23,text,true,,1639,123,30,112,https://fakestoreapi.com/carts,2370,0,1179
+1683971359820,1358,"HTTP Request for ""Get a single """,200,OK,cart 2-3,text,true,,830,125,30,112,https://fakestoreapi.com/carts/5,1358,0,0
+1683971358425,2797,"HTTP Request for ""Get all """,200,OK,cart 2-13,text,true,,1635,123,30,112,https://fakestoreapi.com/carts,2797,0,634
+1683971358776,2576,"HTTP Request for ""Get all""",200,OK,users 3-20,text,true,,3696,123,30,112,https://fakestoreapi.com/users,2576,0,1174
+1683971358327,3060,"HTTP Request for ""Get all products""",200,OK,products 1-12,text,true,,11326,171,30,112,https://fakestoreapi.com/products,2392,0,711
+1683971358174,3226,"HTTP Request for ""Login""",200,OK,Login 4-2,text,true,,850,276,22,112,https://fakestoreapi.com/auth/login,3226,0,2499
+1683971360707,703,"HTTP Request for ""Get a single """,200,OK,cart 2-5,text,true,,842,125,30,111,https://fakestoreapi.com/carts/5,703,0,0
+1683971358539,2881,"HTTP Request for ""Get all """,200,OK,cart 2-17,text,true,,1645,123,30,111,https://fakestoreapi.com/carts,2881,0,1809
+1683971358422,3030,"HTTP Request for ""Get all""",200,OK,users 3-12,text,true,,3696,123,30,111,https://fakestoreapi.com/users,3021,0,1923
+1683971358237,3243,"HTTP Request for ""Get all products""",200,OK,products 1-10,text,true,,11332,171,30,111,https://fakestoreapi.com/products,3223,0,2062
+1683971358519,2978,"HTTP Request for ""Get all products""",200,OK,products 1-18,text,true,,11324,171,30,111,https://fakestoreapi.com/products,1961,0,519
+1683971358500,3003,"HTTP Request for ""Login""",200,OK,Login 4-14,text,true,,852,276,21,111,https://fakestoreapi.com/auth/login,3003,0,1936
+1683971358495,3015,"HTTP Request for ""Get all""",200,OK,users 3-14,text,true,,3688,123,30,110,https://fakestoreapi.com/users,2365,0,1606
+1683971360780,745,"HTTP Request for ""Get a single""",200,OK,users 3-15,text,true,,985,125,30,110,https://fakestoreapi.com/users/1,745,0,0
+1683971358874,2656,"HTTP Request for ""Login""",200,OK,Login 4-25,text,true,,852,276,20,110,https://fakestoreapi.com/auth/login,2656,0,1923
+1683971360791,750,"HTTP Request for ""Get a single """,200,OK,cart 2-7,text,true,,830,125,30,109,https://fakestoreapi.com/carts/5,750,0,0
+1683971360811,743,"HTTP Request for ""Get a single""",200,OK,users 3-13,text,true,,987,125,30,109,https://fakestoreapi.com/users/1,743,0,0
+1683971358892,2698,"HTTP Request for ""Get all products""",200,OK,products 1-29,text,true,,11320,171,30,109,https://fakestoreapi.com/products,1363,0,146
+1683971358505,3101,"HTTP Request for ""Get all """,200,OK,cart 2-16,text,true,,1635,123,30,109,https://fakestoreapi.com/carts,2629,0,1860
+1683971358500,3184,"HTTP Request for ""Get all products""",200,OK,products 1-17,text,true,,11322,171,30,109,https://fakestoreapi.com/products,2100,0,665
+1683971360930,767,"HTTP Request for ""Get a single""",200,OK,users 3-3,text,true,,991,125,30,109,https://fakestoreapi.com/users/1,767,0,0
+1683971358605,3120,"HTTP Request for ""Get all products""",200,OK,products 1-20,text,true,,11318,171,30,109,https://fakestoreapi.com/products,2285,0,1683
+1683971360672,1061,"HTTP Request for ""Get a single product""",200,OK,products 1-13,text,true,,1065,173,30,109,https://fakestoreapi.com/products/1,1061,0,0
+1683971361000,733,"HTTP Request for ""Get a single """,200,OK,cart 2-6,text,true,,834,125,30,109,https://fakestoreapi.com/carts/5,733,0,0
+1683971358346,3390,"HTTP Request for ""Get all """,200,OK,cart 2-10,text,true,,1637,123,30,109,https://fakestoreapi.com/carts,3390,0,2251
+1683971358166,3577,"HTTP Request for ""Get all products""",200,OK,products 1-7,text,true,,11328,171,30,109,https://fakestoreapi.com/products,3222,0,2416
+1683971358854,2891,"HTTP Request for ""Get all """,200,OK,cart 2-25,text,true,,1639,123,30,109,https://fakestoreapi.com/carts,2891,0,1627
+1683971360827,923,"HTTP Request for ""Get a single """,200,OK,cart 2-28,text,true,,834,125,30,109,https://fakestoreapi.com/carts/5,923,0,0
+1683971361135,745,"HTTP Request for ""Limit results""",200,OK,users 3-10,text,true,,2190,131,30,109,https://fakestoreapi.com/users?limit=5,743,0,0
+1683971361174,711,"HTTP Request for ""Get a single """,200,OK,cart 2-20,text,true,,834,125,30,109,https://fakestoreapi.com/carts/5,711,0,0
+1683971361178,724,"HTTP Request for ""Limitresults """,200,OK,cart 2-3,text,true,,1401,131,30,109,https://fakestoreapi.com/carts?limit=5,724,0,0
+1683971358373,3536,"HTTP Request for ""Get all""",200,OK,users 3-11,text,true,,3690,123,30,109,https://fakestoreapi.com/users,3529,0,1406
+1683971361175,735,"HTTP Request for ""Get a single """,200,OK,cart 2-23,text,true,,836,125,30,109,https://fakestoreapi.com/carts/5,735,0,0
+1683971358530,3419,"HTTP Request for ""Get all""",200,OK,users 3-16,text,true,,3694,123,30,109,https://fakestoreapi.com/users,3407,0,2693
+1683971361388,576,"HTTP Request for ""Get a single product""",200,OK,products 1-12,text,true,,1059,173,30,109,https://fakestoreapi.com/products/1,576,0,0
+1683971358237,3727,"HTTP Request for ""Get all""",200,OK,users 3-7,text,true,,3692,123,30,109,https://fakestoreapi.com/users,3716,0,2976
+1683971358174,3810,"HTTP Request for ""Get all """,200,OK,cart 2-1,text,true,,1637,123,30,109,https://fakestoreapi.com/carts,3810,0,3058
+1683971361223,761,"HTTP Request for ""Get a single """,200,OK,cart 2-13,text,true,,838,125,30,109,https://fakestoreapi.com/carts/5,761,0,0
+1683971358815,3173,"HTTP Request for ""Login""",200,OK,Login 4-23,text,true,,848,276,19,109,https://fakestoreapi.com/auth/login,3173,0,2231
+1683971358567,3457,"HTTP Request for ""Get all products""",200,OK,products 1-19,text,true,,11328,171,30,108,https://fakestoreapi.com/products,2859,0,1290
+1683971358496,3540,"HTTP Request for ""Get all products""",200,OK,products 1-16,text,true,,11324,171,30,108,https://fakestoreapi.com/products,3287,0,2743
+1683971358209,3834,"HTTP Request for ""Login""",200,OK,Login 4-6,text,true,,856,276,18,108,https://fakestoreapi.com/auth/login,3834,0,3067
+1683971358860,3184,"HTTP Request for ""Get all products""",200,OK,products 1-27,text,true,,11322,171,30,107,https://fakestoreapi.com/products,2434,0,1848
+1683971361481,574,"HTTP Request for ""Get a single product""",200,OK,products 1-10,text,true,,1073,173,30,107,https://fakestoreapi.com/products/1,574,0,0
+1683971358167,3903,"HTTP Request for ""Get all""",200,OK,users 3-1,text,true,,3692,123,30,107,https://fakestoreapi.com/users,3891,0,1988
+1683971361497,587,"HTTP Request for ""Get a single product""",200,OK,products 1-18,text,true,,1065,173,30,107,https://fakestoreapi.com/products/1,587,0,0
+1683971358796,3309,"HTTP Request for ""Get all""",200,OK,users 3-22,text,true,,3698,123,30,107,https://fakestoreapi.com/users,3299,0,2550
+1683971361352,758,"HTTP Request for ""Get a single""",200,OK,users 3-20,text,true,,989,125,30,107,https://fakestoreapi.com/users/1,758,0,0
+1683971358271,3873,"HTTP Request for ""Get all """,200,OK,cart 2-9,text,true,,1639,123,30,107,https://fakestoreapi.com/carts,3873,0,3131
+1683971361421,725,"HTTP Request for ""Get a single """,200,OK,cart 2-17,text,true,,830,125,30,107,https://fakestoreapi.com/carts/5,725,0,0
+1683971358309,3856,"HTTP Request for ""Get all""",200,OK,users 3-9,text,true,,3690,123,30,107,https://fakestoreapi.com/users,3844,0,3081
+1683971361411,766,"HTTP Request for ""Limitresults """,200,OK,cart 2-5,text,true,,1399,131,30,107,https://fakestoreapi.com/carts?limit=5,766,0,0
+1683971361591,594,"HTTP Request for ""Get a single product""",200,OK,products 1-29,text,true,,1067,173,30,107,https://fakestoreapi.com/products/1,594,0,0
+1683971358382,3811,"HTTP Request for ""Get all """,200,OK,cart 2-12,text,true,,1641,123,30,107,https://fakestoreapi.com/carts,3811,0,704
+1683971361452,745,"HTTP Request for ""Get a single""",200,OK,users 3-12,text,true,,995,125,30,107,https://fakestoreapi.com/users/1,745,0,0
+1683971358169,4032,"HTTP Request for ""Get all products""",200,OK,products 1-3,text,true,,11324,171,30,107,https://fakestoreapi.com/products,2358,0,869
+1683971361511,706,"HTTP Request for ""Get a single""",200,OK,users 3-14,text,true,,993,125,30,107,https://fakestoreapi.com/users/1,706,0,0
+1683971358268,3967,"HTTP Request for ""Get all""",200,OK,users 3-8,text,true,,3690,123,30,107,https://fakestoreapi.com/users,3961,0,3244
+1683971361685,555,"HTTP Request for ""Get a single product""",200,OK,products 1-17,text,true,,1065,173,30,107,https://fakestoreapi.com/products/1,554,0,0
+1683971358816,3430,"HTTP Request for ""Get all products""",200,OK,products 1-26,text,true,,11328,171,30,107,https://fakestoreapi.com/products,3030,0,2465
+1683971358894,3363,"HTTP Request for ""Get all""",200,OK,users 3-27,text,true,,3698,123,30,107,https://fakestoreapi.com/users,1586,0,144
+1683971361541,733,"HTTP Request for ""Limitresults """,200,OK,cart 2-7,text,true,,1397,131,30,107,https://fakestoreapi.com/carts?limit=5,733,0,0
+1683971358426,3853,"HTTP Request for ""Login""",200,OK,Login 4-12,text,true,,858,276,17,107,https://fakestoreapi.com/auth/login,3853,0,3125
+1683971361726,555,"HTTP Request for ""Get a single product""",200,OK,products 1-20,text,true,,1063,173,30,106,https://fakestoreapi.com/products/1,555,0,0
+1683971358570,3715,"HTTP Request for ""Get all """,200,OK,cart 2-18,text,true,,1635,123,30,106,https://fakestoreapi.com/carts,3715,0,1758
+1683971361606,698,"HTTP Request for ""Get a single """,200,OK,cart 2-16,text,true,,830,125,30,106,https://fakestoreapi.com/carts/5,698,0,0
+1683971358811,3526,"HTTP Request for ""Get all products""",200,OK,products 1-25,text,true,,11328,171,30,106,https://fakestoreapi.com/products,2855,0,2260
+1683971358171,4178,"HTTP Request for ""Get all products""",200,OK,products 1-2,text,true,,11322,171,30,106,https://fakestoreapi.com/products,2081,0,875
+1683971361698,659,"HTTP Request for ""Limit results""",200,OK,users 3-3,text,true,,2190,131,30,106,https://fakestoreapi.com/users?limit=5,659,0,0
+1683971361737,650,"HTTP Request for ""Get a single """,200,OK,cart 2-10,text,true,,830,125,30,106,https://fakestoreapi.com/carts/5,650,0,0
+1683971358173,4234,"HTTP Request for ""Get all products""",200,OK,products 1-6,text,true,,11330,171,30,106,https://fakestoreapi.com/products,4021,0,1415
+1683971358170,4259,"HTTP Request for ""Get all products""",200,OK,products 1-1,text,true,,11324,171,30,106,https://fakestoreapi.com/products,3968,0,1068
+1683971361964,470,"HTTP Request for ""Limit results""",200,OK,products 1-12,text,true,,3003,179,30,106,https://fakestoreapi.com/products?limit=5,453,0,0
+1683971362024,420,"HTTP Request for ""Get a single product""",200,OK,products 1-19,text,true,,1065,173,30,106,https://fakestoreapi.com/products/1,420,0,0
+1683971361750,694,"HTTP Request for ""Limitresults """,200,OK,cart 2-28,text,true,,1403,131,30,106,https://fakestoreapi.com/carts?limit=5,694,0,0
+1683971361886,584,"HTTP Request for ""Limitresults """,200,OK,cart 2-20,text,true,,1389,131,30,106,https://fakestoreapi.com/carts?limit=5,580,0,0
+1683971361880,603,"HTTP Request for ""Sort results""",200,OK,users 3-10,text,true,,3692,132,30,106,https://fakestoreapi.com/users?sort=asc,597,0,0
+1683971362037,450,"HTTP Request for ""Get a single product""",200,OK,products 1-16,text,true,,1063,173,30,106,https://fakestoreapi.com/products/1,450,0,0
+1683971362045,446,"HTTP Request for ""Get a single product""",200,OK,products 1-27,text,true,,1063,173,30,106,https://fakestoreapi.com/products/1,446,0,0
+1683971362055,450,"HTTP Request for ""Limit results""",200,OK,products 1-10,text,true,,3007,179,30,106,https://fakestoreapi.com/products?limit=5,444,0,0
+1683971361526,1002,"HTTP Request for ""Limit results""",200,OK,users 3-15,text,true,,2186,131,30,106,https://fakestoreapi.com/users?limit=5,996,0,0
+1683971362084,479,"HTTP Request for ""Limit results""",200,OK,products 1-18,text,true,,3013,179,30,106,https://fakestoreapi.com/products?limit=5,470,0,0
+1683971358354,4231,"HTTP Request for ""Login""",200,OK,Login 4-10,text,true,,850,276,16,106,https://fakestoreapi.com/auth/login,4231,0,3570
+1683971361910,679,"HTTP Request for ""Get a single""",200,OK,users 3-11,text,true,,983,125,30,105,https://fakestoreapi.com/users/1,679,0,0
+1683971361734,873,"HTTP Request for ""Limit results""",200,OK,products 1-13,text,true,,3007,179,30,105,https://fakestoreapi.com/products?limit=5,859,0,0
+1683971361910,701,"HTTP Request for ""Limitresults """,200,OK,cart 2-23,text,true,,1395,131,30,105,https://fakestoreapi.com/carts?limit=5,698,0,0
+1683971361949,662,"HTTP Request for ""Get a single""",200,OK,users 3-16,text,true,,991,125,30,105,https://fakestoreapi.com/users/1,662,0,0
+1683971361743,876,"HTTP Request for ""Get a single product""",200,OK,products 1-7,text,true,,1061,173,30,105,https://fakestoreapi.com/products/1,876,0,0
+1683971361964,659,"HTTP Request for ""Get a single""",200,OK,users 3-7,text,true,,993,125,30,105,https://fakestoreapi.com/users/1,659,0,0
+1683971358167,4483,"HTTP Request for ""Get all""",200,OK,users 3-2,text,true,,3692,123,30,105,https://fakestoreapi.com/users,4473,0,3449
+1683971362186,507,"HTTP Request for ""Limit results""",200,OK,products 1-29,text,true,,3003,179,30,105,https://fakestoreapi.com/products?limit=5,496,0,0
+1683971361985,729,"HTTP Request for ""Limitresults """,200,OK,cart 2-13,text,true,,1399,131,30,105,https://fakestoreapi.com/carts?limit=5,729,0,0
+1683971362202,515,"HTTP Request for ""Get a single product""",200,OK,products 1-3,text,true,,1061,173,30,105,https://fakestoreapi.com/products/1,515,0,0
+1683971361985,741,"HTTP Request for ""Get a single """,200,OK,cart 2-1,text,true,,830,125,30,105,https://fakestoreapi.com/carts/5,740,0,0
+1683971359122,3636,"HTTP Request for ""Get all""",200,OK,users 3-28,text,true,,3692,123,30,105,https://fakestoreapi.com/users,3624,0,2881
+1683971362070,705,"HTTP Request for ""Get a single""",200,OK,users 3-1,text,true,,995,125,30,105,https://fakestoreapi.com/users/1,705,0,0
+1683971362240,550,"HTTP Request for ""Limit results""",200,OK,products 1-17,text,true,,3013,179,30,105,https://fakestoreapi.com/products?limit=5,543,0,0
+1683971361902,910,"HTTP Request for ""Sort results """,200,OK,cart 2-3,text,true,,1631,133,30,105,https://fakestoreapi.com/carts?sort=desc,910,0,0
+1683971362105,708,"HTTP Request for ""Get a single""",200,OK,users 3-22,text,true,,995,125,30,105,https://fakestoreapi.com/users/1,707,0,0
+1683971358778,4046,"HTTP Request for ""Get all products""",200,OK,products 1-22,text,true,,11320,171,30,105,https://fakestoreapi.com/products,2983,0,2420
+1683971362281,554,"HTTP Request for ""Limit results""",200,OK,products 1-20,text,true,,3003,179,30,105,https://fakestoreapi.com/products?limit=5,547,0,0
+1683971362111,743,"HTTP Request for ""Limit results""",200,OK,users 3-20,text,true,,2184,131,30,105,https://fakestoreapi.com/users?limit=5,737,0,0
+1683971361746,1110,"HTTP Request for ""Get a single """,200,OK,cart 2-25,text,true,,828,125,30,105,https://fakestoreapi.com/carts/5,1110,0,0
+1683971358215,4678,"HTTP Request for ""Get all products""",200,OK,products 1-9,text,true,,11322,171,30,105,https://fakestoreapi.com/products,2288,0,1329
+1683971362349,549,"HTTP Request for ""Get a single product""",200,OK,products 1-2,text,true,,1067,173,30,105,https://fakestoreapi.com/products/1,549,0,0
+1683971359132,3786,"HTTP Request for ""Get all""",200,OK,users 3-30,text,true,,3692,123,30,105,https://fakestoreapi.com/users,2499,0,1708
+1683971362177,756,"HTTP Request for ""Sort results """,200,OK,cart 2-5,text,true,,1639,133,30,105,https://fakestoreapi.com/carts?sort=desc,755,0,0
+1683971362236,731,"HTTP Request for ""Get a single""",200,OK,users 3-8,text,true,,989,125,30,105,https://fakestoreapi.com/users/1,731,0,0
+1683971362429,568,"HTTP Request for ""Get a single product""",200,OK,products 1-1,text,true,,1075,173,30,105,https://fakestoreapi.com/products/1,568,0,0
+1683971362285,723,"HTTP Request for ""Get a single """,200,OK,cart 2-18,text,true,,834,125,30,105,https://fakestoreapi.com/carts/5,723,0,0
+1683971362275,758,"HTTP Request for ""Sort results """,200,OK,cart 2-7,text,true,,1635,133,30,105,https://fakestoreapi.com/carts?sort=desc,757,0,0
+1683971358461,4572,"HTTP Request for ""Get all """,200,OK,cart 2-14,text,true,,1639,123,30,105,https://fakestoreapi.com/carts,4572,0,792
+1683971362304,760,"HTTP Request for ""Limitresults """,200,OK,cart 2-16,text,true,,1403,131,30,105,https://fakestoreapi.com/carts?limit=5,746,0,0
+1683971361555,1536,"HTTP Request for ""Limit results""",200,OK,users 3-13,text,true,,2194,131,30,105,https://fakestoreapi.com/users?limit=5,1530,0,0
+1683971362387,763,"HTTP Request for ""Limitresults """,200,OK,cart 2-10,text,true,,1401,131,30,105,https://fakestoreapi.com/carts?limit=5,763,0,0
+1683971362491,679,"HTTP Request for ""Limit results""",200,OK,products 1-27,text,true,,3003,179,30,105,https://fakestoreapi.com/products?limit=5,632,0,0
+1683971362434,742,"HTTP Request for ""Sort results ",200,OK,products 1-12,text,true,,11326,181,30,105,https://fakestoreapi.com/products?sort=desc,570,0,0
+1683971362246,931,"HTTP Request for ""Get a single product""",200,OK,products 1-26,text,true,,1067,173,30,105,https://fakestoreapi.com/products/1,931,0,0
+1683971362620,580,"HTTP Request for ""Limit results""",200,OK,products 1-7,text,true,,3007,179,30,105,https://fakestoreapi.com/products?limit=5,572,0,0
+1683971362471,750,"HTTP Request for ""Sort results """,200,OK,cart 2-20,text,true,,1635,133,30,105,https://fakestoreapi.com/carts?sort=desc,749,0,0
+1683971362483,773,"HTTP Request for ""Add user""",200,OK,users 3-10,text,true,,708,879,30,105,https://fakestoreapi.com/users,773,0,0
+1683971362145,1119,"HTTP Request for ""Get a single """,200,OK,cart 2-9,text,true,,832,125,30,105,https://fakestoreapi.com/carts/5,1119,0,0
+1683971362408,946,"HTTP Request for ""Get a single product""",200,OK,products 1-6,text,true,,1061,173,30,105,https://fakestoreapi.com/products/1,946,0,0
+1683971361733,1633,"HTTP Request for ""Limitresults """,200,OK,cart 2-6,text,true,,1405,131,30,105,https://fakestoreapi.com/carts?limit=5,1633,0,0
+1683971358876,4534,"HTTP Request for ""Get all """,200,OK,cart 2-27,text,true,,1637,123,30,105,https://fakestoreapi.com/carts,4533,0,3689
+1683971362589,825,"HTTP Request for ""Limit results""",200,OK,users 3-11,text,true,,2186,131,30,105,https://fakestoreapi.com/users?limit=5,810,0,0
+1683971362624,827,"HTTP Request for ""Limit results""",200,OK,users 3-7,text,true,,2186,131,30,105,https://fakestoreapi.com/users?limit=5,824,0,0
+1683971362894,577,"HTTP Request for ""Get a single product""",200,OK,products 1-9,text,true,,1067,173,30,105,https://fakestoreapi.com/products/1,576,0,0
+1683971362218,1278,"HTTP Request for ""Limit results""",200,OK,users 3-14,text,true,,2186,131,30,105,https://fakestoreapi.com/users?limit=5,1175,0,0
+1683971362258,1243,"HTTP Request for ""Get a single""",200,OK,users 3-27,text,true,,987,125,30,105,https://fakestoreapi.com/users/1,1243,0,0
+1683971362611,910,"HTTP Request for ""Sort results """,200,OK,cart 2-23,text,true,,1637,133,30,105,https://fakestoreapi.com/carts?sort=desc,824,0,0
+1683971358866,4655,"HTTP Request for ""Get all """,200,OK,cart 2-26,text,true,,1633,123,30,105,https://fakestoreapi.com/carts,4648,0,3766
+1683971359132,4389,"HTTP Request for ""Get all """,200,OK,cart 2-30,text,true,,1637,123,30,105,https://fakestoreapi.com/carts,4389,0,3001
+1683971362650,896,"HTTP Request for ""Get a single""",200,OK,users 3-2,text,true,,995,125,30,105,https://fakestoreapi.com/users/1,896,0,0
+1683971358808,4751,"HTTP Request for ""Login""",200,OK,Login 4-22,text,true,,856,276,15,105,https://fakestoreapi.com/auth/login,4751,0,3850
+1683971362715,851,"HTTP Request for ""Sort results """,200,OK,cart 2-13,text,true,,1637,133,30,104,https://fakestoreapi.com/carts?sort=desc,851,0,0
+1683971362726,848,"HTTP Request for ""Limitresults """,200,OK,cart 2-1,text,true,,1397,131,30,104,https://fakestoreapi.com/carts?limit=5,848,0,0
+1683971362759,815,"HTTP Request for ""Get a single""",200,OK,users 3-28,text,true,,989,125,30,104,https://fakestoreapi.com/users/1,815,0,0
+1683971362193,1410,"HTTP Request for ""Get a single """,200,OK,cart 2-12,text,true,,826,125,30,104,https://fakestoreapi.com/carts/5,1410,0,0
+1683971362813,805,"HTTP Request for ""get in date range """,200,OK,cart 2-3,text,true,,1635,163,30,104,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,804,0,0
+1683971362337,1343,"HTTP Request for ""Get a single product""",200,OK,products 1-25,text,true,,1067,173,30,104,https://fakestoreapi.com/products/1,1343,0,0
+1683971358853,4841,"HTTP Request for ""Login""",200,OK,Login 4-24,text,true,,860,276,14,104,https://fakestoreapi.com/auth/login,4841,0,4026
+1683971362919,785,"HTTP Request for ""Get a single""",200,OK,users 3-30,text,true,,989,125,30,103,https://fakestoreapi.com/users/1,785,0,0
+1683971362825,891,"HTTP Request for ""Get a single product""",200,OK,products 1-22,text,true,,1065,173,30,103,https://fakestoreapi.com/products/1,891,0,0
+1683971362611,1112,"HTTP Request for ""Limit results""",200,OK,users 3-16,text,true,,2188,131,30,103,https://fakestoreapi.com/users?limit=5,1112,0,0
+1683971358862,4875,"HTTP Request for ""Get all""",200,OK,users 3-25,text,true,,3700,123,30,103,https://fakestoreapi.com/users,4868,0,4054
+1683971362933,812,"HTTP Request for ""get in date range """,200,OK,cart 2-5,text,true,,1633,163,30,103,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,811,0,0
+1683971362967,793,"HTTP Request for ""Limit results""",200,OK,users 3-8,text,true,,2188,131,30,103,https://fakestoreapi.com/users?limit=5,792,0,0
+1683971363178,599,"HTTP Request for ""Get all categories""",200,OK,products 1-12,text,true,,759,182,30,103,https://fakestoreapi.com/products/categories,599,0,0
+1683971363008,795,"HTTP Request for ""Limitresults """,200,OK,cart 2-18,text,true,,1399,131,30,103,https://fakestoreapi.com/carts?limit=5,795,0,0
+1683971358876,4978,"HTTP Request for ""Get all products""",200,OK,products 1-28,text,true,,11326,171,30,103,https://fakestoreapi.com/products,4760,0,4189
+1683971358360,5557,"HTTP Request for ""Get all """,200,OK,cart 2-11,text,true,,1637,123,30,103,https://fakestoreapi.com/carts,5517,0,4725
+1683971363355,601,"HTTP Request for ""Limit results""",200,OK,products 1-6,text,true,,3001,179,30,103,https://fakestoreapi.com/products?limit=5,592,0,0
+1683971363222,750,"HTTP Request for ""get in date range """,200,OK,cart 2-20,text,true,,1641,163,30,103,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,750,0,0
+1683971358172,5806,"HTTP Request for ""Get all""",200,OK,users 3-5,text,true,,3694,123,30,103,https://fakestoreapi.com/users,5799,0,5038
+1683971363265,751,"HTTP Request for ""Limitresults """,200,OK,cart 2-9,text,true,,1405,131,30,103,https://fakestoreapi.com/carts?limit=5,750,0,0
+1683971358775,5247,"HTTP Request for ""Login""",200,OK,Login 4-19,text,true,,852,276,13,103,https://fakestoreapi.com/auth/login,5247,0,2491
+1683971362487,1536,"HTTP Request for ""Limit results""",200,OK,products 1-16,text,true,,3009,179,30,103,https://fakestoreapi.com/products?limit=5,1535,0,0
+1683971362166,1880,"HTTP Request for ""Get a single""",200,OK,users 3-9,text,true,,987,125,30,102,https://fakestoreapi.com/users/1,1880,0,0
+1683971362146,1962,"HTTP Request for ""Limitresults """,200,OK,cart 2-17,text,true,,1395,131,30,102,https://fakestoreapi.com/carts?limit=5,1961,0,0
+1683971362444,1700,"HTTP Request for ""Sort results """,200,OK,cart 2-28,text,true,,1643,133,30,102,https://fakestoreapi.com/carts?sort=desc,1700,0,0
+1683971363179,969,"HTTP Request for ""Limit results""",200,OK,products 1-26,text,true,,3007,179,30,102,https://fakestoreapi.com/products?limit=5,588,0,0
+1683971363416,760,"HTTP Request for ""Sort results""",200,OK,users 3-11,text,true,,3694,132,30,102,https://fakestoreapi.com/users?sort=asc,750,0,0
+1683971362775,1405,"HTTP Request for ""Limit results""",200,OK,users 3-1,text,true,,2186,131,30,102,https://fakestoreapi.com/users?limit=5,1404,0,0
+1683971362898,1292,"HTTP Request for ""Limit results""",200,OK,products 1-2,text,true,,3005,179,30,102,https://fakestoreapi.com/products?limit=5,586,0,0
+1683971358592,5610,"HTTP Request for ""Get all """,200,OK,cart 2-19,text,true,,1635,123,30,102,https://fakestoreapi.com/carts,5595,0,4456
+1683971363151,1065,"HTTP Request for ""Sort results """,200,OK,cart 2-10,text,true,,1641,133,30,102,https://fakestoreapi.com/carts?sort=desc,1065,0,0
+1683971363411,806,"HTTP Request for ""Get a single """,200,OK,cart 2-27,text,true,,832,125,30,102,https://fakestoreapi.com/carts/5,806,0,0
+1683971363034,1196,"HTTP Request for ""Get a single """,200,OK,cart 2-14,text,true,,826,125,30,102,https://fakestoreapi.com/carts/5,1196,0,0
+1683971362564,1688,"HTTP Request for ""Sort results ",200,OK,products 1-18,text,true,,11326,181,30,102,https://fakestoreapi.com/products?sort=desc,586,0,0
+1683971362717,1537,"HTTP Request for ""Limit results""",200,OK,products 1-3,text,true,,3009,179,30,102,https://fakestoreapi.com/products?limit=5,912,0,0
+1683971363523,773,"HTTP Request for ""Get a single """,200,OK,cart 2-30,text,true,,828,125,30,102,https://fakestoreapi.com/carts/5,772,0,0
+1683971358767,5536,"HTTP Request for ""Login""",200,OK,Login 4-18,text,true,,854,276,12,102,https://fakestoreapi.com/auth/login,5536,0,4174
+1683971358167,6154,"HTTP Request for ""Get all """,200,OK,cart 2-4,text,true,,1633,123,30,101,https://fakestoreapi.com/carts,6154,0,4796
+1683971363523,822,"HTTP Request for ""Get a single """,200,OK,cart 2-26,text,true,,830,125,30,101,https://fakestoreapi.com/carts/5,822,0,0
+1683971363034,1330,"HTTP Request for ""get in date range """,200,OK,cart 2-7,text,true,,1633,163,30,101,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,1330,0,0
+1683971363568,818,"HTTP Request for ""get in date range """,200,OK,cart 2-13,text,true,,1643,163,30,101,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,813,0,0
+1683971362693,1704,"HTTP Request for ""Sort results ",200,OK,products 1-29,text,true,,11330,181,30,101,https://fakestoreapi.com/products?sort=desc,620,0,0
+1683971363547,859,"HTTP Request for ""Limit results""",200,OK,users 3-2,text,true,,2186,131,30,101,https://fakestoreapi.com/users?limit=5,854,0,0
+1683971358233,6182,"HTTP Request for ""Get all """,200,OK,cart 2-8,text,true,,1631,123,30,101,https://fakestoreapi.com/carts,6044,0,5184
+1683971363575,856,"HTTP Request for ""Sort results """,200,OK,cart 2-1,text,true,,1641,133,30,101,https://fakestoreapi.com/carts?sort=desc,856,0,0
+1683971358425,6020,"HTTP Request for ""Get all products""",200,OK,products 1-15,text,true,,11326,171,30,101,https://fakestoreapi.com/products,5605,0,4808
+1683971363856,590,"HTTP Request for ""Get a single product""",200,OK,products 1-28,text,true,,1069,173,30,101,https://fakestoreapi.com/products/1,590,0,0
+1683971363258,1197,"HTTP Request for ""Update users""",200,OK,users 3-10,text,true,,701,809,30,101,https://fakestoreapi.com/users/11,1197,0,0
+1683971358377,6082,"HTTP Request for ""Login""",200,OK,Login 4-11,text,true,,848,276,11,101,https://fakestoreapi.com/auth/login,6082,0,5326
+1683971363706,777,"HTTP Request for ""Limit results""",200,OK,users 3-30,text,true,,2192,131,30,100,https://fakestoreapi.com/users?limit=5,775,0,0
+1683971362857,1636,"HTTP Request for ""Limitresults """,200,OK,cart 2-25,text,true,,1393,131,30,100,https://fakestoreapi.com/carts?limit=5,1636,0,0
+1683971358171,6323,"HTTP Request for ""Get all""",200,OK,users 3-4,text,true,,3692,123,30,100,https://fakestoreapi.com/users,5943,0,4808
+1683971363738,779,"HTTP Request for ""Get a single""",200,OK,users 3-25,text,true,,991,125,30,100,https://fakestoreapi.com/users/1,779,0,0
+1683971363724,808,"HTTP Request for ""Sort results""",200,OK,users 3-16,text,true,,3696,132,30,100,https://fakestoreapi.com/users?sort=asc,804,0,0
+1683971363746,851,"HTTP Request for ""get user cart""",200,OK,cart 2-5,text,true,,830,130,30,100,https://fakestoreapi.com/carts/user/2,851,0,0
+1683971362444,2327,"HTTP Request for ""Limit results""",200,OK,products 1-19,text,true,,3003,179,30,100,https://fakestoreapi.com/products?limit=5,1973,0,0
+1683971362790,2081,"HTTP Request for ""Sort results ",200,OK,products 1-17,text,true,,11320,181,30,100,https://fakestoreapi.com/products?sort=desc,591,0,0
+1683971362506,2378,"HTTP Request for ""Sort results ",200,OK,products 1-10,text,true,,11328,181,30,100,https://fakestoreapi.com/products?sort=desc,1183,0,0
+1683971363979,950,"HTTP Request for ""Get a single""",200,OK,users 3-5,text,true,,991,125,30,100,https://fakestoreapi.com/users/1,950,0,0
+1683971363619,1312,"HTTP Request for ""get user cart""",200,OK,cart 2-3,text,true,,830,130,30,100,https://fakestoreapi.com/carts/user/2,1312,0,0
+1683971364016,916,"HTTP Request for ""Sort results """,200,OK,cart 2-9,text,true,,1635,133,30,100,https://fakestoreapi.com/carts?sort=desc,916,0,0
+1683971364047,916,"HTTP Request for ""Limit results""",200,OK,users 3-9,text,true,,2188,131,30,100,https://fakestoreapi.com/users?limit=5,902,0,0
+1683971358798,6165,"HTTP Request for ""Login""",200,OK,Login 4-21,text,true,,854,276,10,100,https://fakestoreapi.com/auth/login,6165,0,4550
+1683971362998,1980,"HTTP Request for ""Limit results""",200,OK,products 1-1,text,true,,3005,179,30,99,https://fakestoreapi.com/products?limit=5,599,0,0
+1683971362529,2449,"HTTP Request for ""Sort results""",200,OK,users 3-15,text,true,,3694,132,30,99,https://fakestoreapi.com/users?sort=asc,754,0,0
+1683971358813,6175,"HTTP Request for ""Get all""",200,OK,users 3-23,text,true,,3690,123,30,99,https://fakestoreapi.com/users,5508,0,4140
+1683971358769,6237,"HTTP Request for ""Get all""",200,OK,users 3-19,text,true,,3686,123,30,99,https://fakestoreapi.com/users,5371,0,4249
+1683971364254,753,"HTTP Request for ""Get all categories""",200,OK,products 1-18,text,true,,757,182,30,99,https://fakestoreapi.com/products/categories,753,0,0
+1683971358594,6412,"HTTP Request for ""Get all""",200,OK,users 3-18,text,true,,3694,123,30,99,https://fakestoreapi.com/users,5235,0,4454
+1683971364109,899,"HTTP Request for ""Sort results """,200,OK,cart 2-17,text,true,,1641,133,30,99,https://fakestoreapi.com/carts?sort=desc,899,0,0
+1683971364146,918,"HTTP Request for ""get in date range """,200,OK,cart 2-28,text,true,,1639,163,30,99,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,908,0,0
+1683971358498,6572,"HTTP Request for ""Get all """,200,OK,cart 2-15,text,true,,1635,123,30,99,https://fakestoreapi.com/carts,5439,0,4668
+1683971364181,902,"HTTP Request for ""Sort results""",200,OK,users 3-1,text,true,,3702,132,30,99,https://fakestoreapi.com/users?sort=asc,902,0,0
+1683971363472,1617,"HTTP Request for ""Limit results""",200,OK,products 1-9,text,true,,3017,179,30,99,https://fakestoreapi.com/products?limit=5,602,0,0
+1683971364176,913,"HTTP Request for ""Add user""",200,OK,users 3-11,text,true,,711,879,30,99,https://fakestoreapi.com/users,913,0,0
+1683971364216,953,"HTTP Request for ""get in date range """,200,OK,cart 2-10,text,true,,1637,163,30,99,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,926,0,0
+1683971364232,943,"HTTP Request for ""Limitresults """,200,OK,cart 2-14,text,true,,1401,131,30,99,https://fakestoreapi.com/carts?limit=5,943,0,0
+1683971364399,776,"HTTP Request for ""Get all categories""",200,OK,products 1-29,text,true,,767,182,30,99,https://fakestoreapi.com/products/categories,776,0,0
+1683971362198,2986,"HTTP Request for ""Limit results""",200,OK,users 3-12,text,true,,2186,131,30,99,https://fakestoreapi.com/users?limit=5,1232,0,0
+1683971363367,1819,"HTTP Request for ""Sort results """,200,OK,cart 2-6,text,true,,1643,133,30,99,https://fakestoreapi.com/carts?sort=desc,1818,0,0
+1683971364447,758,"HTTP Request for ""Limit results""",200,OK,products 1-28,text,true,,3007,179,30,99,https://fakestoreapi.com/products?limit=5,758,0,0
+1683971364296,936,"HTTP Request for ""Limitresults """,200,OK,cart 2-30,text,true,,1393,131,30,99,https://fakestoreapi.com/carts?limit=5,936,0,0
+1683971363171,2068,"HTTP Request for ""Sort results ",200,OK,products 1-27,text,true,,11320,181,30,99,https://fakestoreapi.com/products?sort=desc,1174,0,0
+1683971358270,6971,"HTTP Request for ""Get all products""",200,OK,products 1-11,text,true,,11326,171,30,99,https://fakestoreapi.com/products,5787,0,4979
+1683971364323,932,"HTTP Request for ""Get a single """,200,OK,cart 2-4,text,true,,840,125,30,99,https://fakestoreapi.com/carts/5,932,0,0
+1683971363972,1286,"HTTP Request for ""get user cart""",200,OK,cart 2-20,text,true,,844,130,30,99,https://fakestoreapi.com/carts/user/2,1286,0,0
+1683971358375,6889,"HTTP Request for ""Get all products""",200,OK,products 1-14,text,true,,11320,171,30,99,https://fakestoreapi.com/products,6124,0,4742
+1683971363201,2081,"HTTP Request for ""Sort results ",200,OK,products 1-7,text,true,,11322,181,30,99,https://fakestoreapi.com/products?sort=desc,1276,0,0
+1683971364345,937,"HTTP Request for ""Limitresults """,200,OK,cart 2-26,text,true,,1399,131,30,99,https://fakestoreapi.com/carts?limit=5,937,0,0
+1683971364387,896,"HTTP Request for ""get user cart""",200,OK,cart 2-13,text,true,,830,130,30,99,https://fakestoreapi.com/carts/user/2,896,0,0
+1683971364366,917,"HTTP Request for ""get user cart""",200,OK,cart 2-7,text,true,,838,130,30,99,https://fakestoreapi.com/carts/user/2,917,0,0
+1683971364446,837,"HTTP Request for ""Get a single product""",200,OK,products 1-15,text,true,,1063,173,30,99,https://fakestoreapi.com/products/1,837,0,0
+1683971364406,897,"HTTP Request for ""Sort results""",200,OK,users 3-2,text,true,,3690,132,30,99,https://fakestoreapi.com/users?sort=asc,878,0,0
+1683971364416,897,"HTTP Request for ""Get a single """,200,OK,cart 2-8,text,true,,832,125,30,99,https://fakestoreapi.com/carts/5,897,0,0
+1683971363523,1790,"HTTP Request for ""get in date range """,200,OK,cart 2-23,text,true,,1637,163,30,99,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,1790,0,0
+1683971364431,909,"HTTP Request for ""get in date range """,200,OK,cart 2-1,text,true,,1639,163,30,99,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,890,0,0
+1683971364203,1137,"HTTP Request for ""Get a single """,200,OK,cart 2-19,text,true,,830,125,30,99,https://fakestoreapi.com/carts/5,1137,0,0
+1683971364598,742,"HTTP Request for ""Add new cart  """,200,OK,cart 2-5,text,true,,714,343,30,99,https://fakestoreapi.com/carts,742,0,0
+1683971364456,886,"HTTP Request for ""Delete Users """,200,OK,users 3-10,text,true,,699,212,30,99,https://fakestoreapi.com/users/11,886,0,0
+1683971363604,1743,"HTTP Request for ""Limitresults """,200,OK,cart 2-12,text,true,,1393,131,30,98,https://fakestoreapi.com/carts?limit=5,1743,0,0
+1683971362358,3012,"HTTP Request for ""Sort results""",200,OK,users 3-3,text,true,,3694,132,29,98,https://fakestoreapi.com/users?sort=asc,1547,0,0
+1683971364494,878,"HTTP Request for ""Sort results """,200,OK,cart 2-25,text,true,,1629,133,30,98,https://fakestoreapi.com/carts?sort=desc,878,0,0
+1683971363777,1606,"HTTP Request for ""Get in category""",200,OK,products 1-12,text,true,,2238,189,30,98,https://fakestoreapi.com/products/category/jewelery,1606,0,0
+1683971363502,1889,"HTTP Request for ""Limit results""",200,OK,users 3-27,text,true,,2184,131,29,98,https://fakestoreapi.com/users?limit=5,1889,0,0
+1683971362854,2536,"HTTP Request for ""Sort results""",200,OK,users 3-20,text,true,,3700,132,29,98,https://fakestoreapi.com/users?sort=asc,2152,0,0
+1683971363065,2326,"HTTP Request for ""Sort results """,200,OK,cart 2-16,text,true,,1639,133,30,98,https://fakestoreapi.com/carts?sort=desc,2326,0,0
+1683971362813,2578,"HTTP Request for ""Limit results""",200,OK,users 3-22,text,true,,2198,131,29,98,https://fakestoreapi.com/users?limit=5,2578,0,0
+1683971364533,859,"HTTP Request for ""Add user""",200,OK,users 3-16,text,true,,710,879,29,98,https://fakestoreapi.com/users,859,0,0
+1683971363804,1631,"HTTP Request for ""Sort results """,200,OK,cart 2-18,text,true,,1635,133,30,98,https://fakestoreapi.com/carts?sort=desc,1631,0,0
+1683971364255,1186,"HTTP Request for ""Sort results ",200,OK,products 1-3,text,true,,11322,181,30,98,https://fakestoreapi.com/products?sort=desc,797,0,0
+1683971364518,987,"HTTP Request for ""Limit results""",200,OK,users 3-25,text,true,,2196,131,29,98,https://fakestoreapi.com/users?limit=5,865,0,0
+1683971363682,1853,"HTTP Request for ""Limit results""",200,OK,products 1-25,text,true,,3011,179,30,98,https://fakestoreapi.com/products?limit=5,622,0,0
+1683971364872,663,"HTTP Request for ""Get all categories""",200,OK,products 1-17,text,true,,761,182,30,98,https://fakestoreapi.com/products/categories,663,0,0
+1683971364886,650,"HTTP Request for ""Get all categories""",200,OK,products 1-10,text,true,,765,182,30,98,https://fakestoreapi.com/products/categories,650,0,0
+1683971364495,1045,"HTTP Request for ""Get a single""",200,OK,users 3-4,text,true,,987,125,29,98,https://fakestoreapi.com/users/1,1045,0,0
+1683971364931,615,"HTTP Request for ""Add new cart  """,200,OK,cart 2-3,text,true,,704,343,30,98,https://fakestoreapi.com/carts,615,0,0
+1683971362607,2958,"HTTP Request for ""Sort results ",200,OK,products 1-13,text,true,,11326,181,30,98,https://fakestoreapi.com/products?sort=desc,979,0,0
+1683971358168,7405,"HTTP Request for ""Get all products""",200,OK,products 1-4,text,true,,11318,171,30,98,https://fakestoreapi.com/products,6920,0,5039
+1683971363918,1660,"HTTP Request for ""Get a single """,200,OK,cart 2-11,text,true,,838,125,30,98,https://fakestoreapi.com/carts/5,1660,0,0
+1683971364929,665,"HTTP Request for ""Limit results""",200,OK,users 3-5,text,true,,2188,131,29,98,https://fakestoreapi.com/users?limit=5,665,0,0
+1683971364979,615,"HTTP Request for ""Sort results ",200,OK,products 1-1,text,true,,11318,181,30,98,https://fakestoreapi.com/products?sort=desc,615,0,0
+1683971364932,667,"HTTP Request for ""get in date range """,200,OK,cart 2-9,text,true,,1639,163,30,98,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,667,0,0
+1683971364964,637,"HTTP Request for ""Sort results""",200,OK,users 3-9,text,true,,3690,132,29,98,https://fakestoreapi.com/users?sort=asc,637,0,0
+1683971364217,1384,"HTTP Request for ""Limitresults """,200,OK,cart 2-27,text,true,,1397,131,30,98,https://fakestoreapi.com/carts?limit=5,1384,0,0
+1683971358796,6804,"HTTP Request for ""Get all products""",200,OK,products 1-24,text,true,,11324,171,30,98,https://fakestoreapi.com/products,4475,0,3882
+1683971358915,6685,"HTTP Request for ""Login""",200,OK,Login 4-27,text,true,,856,276,9,98,https://fakestoreapi.com/auth/login,6684,0,6005
+1683971363957,1646,"HTTP Request for ""Sort results ",200,OK,products 1-6,text,true,,11320,181,30,98,https://fakestoreapi.com/products?sort=desc,580,0,0
+1683971364191,1428,"HTTP Request for ""Sort results ",200,OK,products 1-2,text,true,,11324,181,30,97,https://fakestoreapi.com/products?sort=desc,740,0,0
+1683971363497,2196,"HTTP Request for ""Sort results""",200,OK,users 3-14,text,true,,3686,132,29,97,https://fakestoreapi.com/users?sort=asc,2196,0,0
+1683971364024,1727,"HTTP Request for ""Sort results ",200,OK,products 1-16,text,true,,11326,181,30,97,https://fakestoreapi.com/products?sort=desc,1522,0,0
+1683971365240,592,"HTTP Request for ""Get all categories""",200,OK,products 1-27,text,true,,757,182,30,97,https://fakestoreapi.com/products/categories,592,0,0
+1683971365258,575,"HTTP Request for ""Add new cart  """,200,OK,cart 2-20,text,true,,702,343,30,97,https://fakestoreapi.com/carts,574,0,0
+1683971359125,6719,"HTTP Request for ""Get all""",200,OK,users 3-29,text,true,,3690,123,29,97,https://fakestoreapi.com/users,6707,0,5928
+1683971365090,755,"HTTP Request for ""Update users""",200,OK,users 3-11,text,true,,983,808,29,97,https://fakestoreapi.com/users/1,755,0,0
+1683971364979,866,"HTTP Request for ""Add user""",200,OK,users 3-15,text,true,,703,879,29,97,https://fakestoreapi.com/users,866,0,0
+1683971365007,839,"HTTP Request for ""Get a single""",200,OK,users 3-19,text,true,,989,125,29,97,https://fakestoreapi.com/users/1,839,0,0
+1683971359137,6708,"HTTP Request for ""Login""",200,OK,Login 4-29,text,true,,864,276,8,97,https://fakestoreapi.com/auth/login,6708,0,5953
+1683971365083,776,"HTTP Request for ""Add user""",200,OK,users 3-1,text,true,,704,879,29,97,https://fakestoreapi.com/users,776,0,0
+1683971359130,6730,"HTTP Request for ""Get all """,200,OK,cart 2-29,text,true,,1643,123,30,96,https://fakestoreapi.com/carts,6730,0,5960
+1683971365283,578,"HTTP Request for ""Add new cart  """,200,OK,cart 2-13,text,true,,702,343,30,96,https://fakestoreapi.com/carts,578,0,0
+1683971365242,619,"HTTP Request for ""Get a single product""",200,OK,products 1-11,text,true,,1061,173,30,96,https://fakestoreapi.com/products/1,619,0,0
+1683971365283,578,"HTTP Request for ""Add new cart  """,200,OK,cart 2-7,text,true,,710,343,30,96,https://fakestoreapi.com/carts,578,0,0
+1683971365282,580,"HTTP Request for ""Get all categories""",200,OK,products 1-7,text,true,,761,182,30,96,https://fakestoreapi.com/products/categories,580,0,0
+1683971365341,522,"HTTP Request for ""Update a cart""",200,OK,cart 2-5,text,true,,702,319,30,96,https://fakestoreapi.com/carts/11,522,0,0
+1683971358794,7069,"HTTP Request for ""Get all""",200,OK,users 3-21,text,true,,3690,123,29,96,https://fakestoreapi.com/users,5526,0,4517
+1683971365383,482,"HTTP Request for "" Add new product""",200,OK,products 1-12,text,true,,708,424,30,96,https://fakestoreapi.com/products,482,0,0
+1683971365265,602,"HTTP Request for ""Get a single product""",200,OK,products 1-14,text,true,,1069,173,30,96,https://fakestoreapi.com/products/1,602,0,0
+1683971365206,661,"HTTP Request for ""Sort results ",200,OK,products 1-28,text,true,,11324,181,30,96,https://fakestoreapi.com/products?sort=desc,661,0,0
+1683971362836,3031,"HTTP Request for ""Sort results ",200,OK,products 1-20,text,true,,11328,181,30,96,https://fakestoreapi.com/products?sort=desc,1151,0,0
+1683971364989,879,"HTTP Request for ""Get a single""",200,OK,users 3-23,text,true,,993,125,29,96,https://fakestoreapi.com/users/1,879,0,0
+1683971365064,805,"HTTP Request for ""get user cart""",200,OK,cart 2-28,text,true,,830,130,30,96,https://fakestoreapi.com/carts/user/2,805,0,0
+1683971365008,861,"HTTP Request for ""Get a single""",200,OK,users 3-18,text,true,,991,125,29,96,https://fakestoreapi.com/users/1,861,0,0
+1683971365008,861,"HTTP Request for ""get in date range """,200,OK,cart 2-17,text,true,,1635,163,30,96,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,861,0,0
+1683971365072,798,"HTTP Request for ""Get a single """,200,OK,cart 2-15,text,true,,836,125,30,96,https://fakestoreapi.com/carts/5,798,0,0
+1683971365169,701,"HTTP Request for ""get user cart""",200,OK,cart 2-10,text,true,,836,130,30,96,https://fakestoreapi.com/carts/user/2,701,0,0
+1683971365175,697,"HTTP Request for ""Sort results """,200,OK,cart 2-14,text,true,,1643,133,30,96,https://fakestoreapi.com/carts?sort=desc,697,0,0
+1683971365441,431,"HTTP Request for ""Get all categories""",200,OK,products 1-3,text,true,,763,182,30,96,https://fakestoreapi.com/products/categories,431,0,0
+1683971365175,698,"HTTP Request for ""Get in category""",200,OK,products 1-29,text,true,,2244,189,30,96,https://fakestoreapi.com/products/category/jewelery,698,0,0
+1683971363576,2297,"HTTP Request for ""Limit results""",200,OK,users 3-28,text,true,,2182,131,29,96,https://fakestoreapi.com/users?limit=5,2297,0,0
+1683971365283,595,"HTTP Request for ""Limit results""",200,OK,products 1-15,text,true,,3005,179,30,96,https://fakestoreapi.com/products?limit=5,595,0,0
+1683971365186,696,"HTTP Request for ""get in date range """,200,OK,cart 2-6,text,true,,1641,163,30,96,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,696,0,0
+1683971365008,892,"HTTP Request for ""Get in category""",200,OK,products 1-18,text,true,,2240,189,30,96,https://fakestoreapi.com/products/category/jewelery,892,0,0
+1683971363717,2185,"HTTP Request for ""Limit results""",200,OK,products 1-22,text,true,,3007,179,30,96,https://fakestoreapi.com/products?limit=5,1586,0,0
+1683971365547,411,"HTTP Request for ""Update a cart""",200,OK,cart 2-3,text,true,,704,319,30,96,https://fakestoreapi.com/carts/11,411,0,0
+1683971364484,1498,"HTTP Request for ""Sort results""",200,OK,users 3-30,text,true,,3690,132,29,96,https://fakestoreapi.com/users?sort=asc,1498,0,0
+1683971365567,432,"HTTP Request for ""Get all categories""",200,OK,products 1-13,text,true,,765,182,30,96,https://fakestoreapi.com/products/categories,432,0,0
+1683971365282,718,"HTTP Request for ""Sort results """,200,OK,cart 2-26,text,true,,1637,133,30,96,https://fakestoreapi.com/carts?sort=desc,717,0,0
+1683971365233,767,"HTTP Request for ""Sort results """,200,OK,cart 2-30,text,true,,1637,133,30,96,https://fakestoreapi.com/carts?sort=desc,767,0,0
+1683971365303,698,"HTTP Request for ""Add user""",200,OK,users 3-2,text,true,,706,879,29,96,https://fakestoreapi.com/users,697,0,0
+1683971365255,752,"HTTP Request for ""Limitresults """,200,OK,cart 2-4,text,true,,1395,131,30,96,https://fakestoreapi.com/carts?limit=5,752,0,0
+1683971365314,696,"HTTP Request for ""get user cart""",200,OK,cart 2-23,text,true,,840,130,30,96,https://fakestoreapi.com/carts/user/2,696,0,0
+1683971365341,684,"HTTP Request for ""get user cart""",200,OK,cart 2-1,text,true,,832,130,30,96,https://fakestoreapi.com/carts/user/2,684,0,0
+1683971365602,428,"HTTP Request for ""Get a single product""",200,OK,products 1-24,text,true,,1065,173,30,96,https://fakestoreapi.com/products/1,428,0,0
+1683971365604,426,"HTTP Request for ""Get all categories""",200,OK,products 1-6,text,true,,765,182,30,96,https://fakestoreapi.com/products/categories,426,0,0
+1683971365594,437,"HTTP Request for ""Get all categories""",200,OK,products 1-1,text,true,,755,182,30,96,https://fakestoreapi.com/products/categories,437,0,0
+1683971365341,695,"HTTP Request for ""Limitresults """,200,OK,cart 2-19,text,true,,1395,131,30,96,https://fakestoreapi.com/carts?limit=5,695,0,0
+1683971363761,2283,"HTTP Request for ""Sort results""",200,OK,users 3-8,text,true,,3692,132,29,96,https://fakestoreapi.com/users?sort=asc,1779,0,0
+1683971365348,701,"HTTP Request for ""Sort results """,200,OK,cart 2-12,text,true,,1641,133,30,96,https://fakestoreapi.com/carts?sort=desc,701,0,0
+1683971365313,781,"HTTP Request for ""Limitresults """,200,OK,cart 2-8,text,true,,1401,131,30,96,https://fakestoreapi.com/carts?limit=5,747,0,0
+1683971365186,940,"HTTP Request for ""Sort results""",200,OK,users 3-12,text,true,,3688,132,29,96,https://fakestoreapi.com/users?sort=asc,928,0,0
+1683971365751,391,"HTTP Request for ""Get all categories""",200,OK,products 1-16,text,true,,763,182,30,96,https://fakestoreapi.com/products/categories,391,0,0
+1683971365535,620,"HTTP Request for ""Sort results ",200,OK,products 1-25,text,true,,11328,181,30,96,https://fakestoreapi.com/products?sort=desc,447,0,0
+1683971365372,784,"HTTP Request for ""Add user""",200,OK,users 3-3,text,true,,708,879,29,96,https://fakestoreapi.com/users,784,0,0
+1683971365393,779,"HTTP Request for ""Update users""",200,OK,users 3-16,text,true,,701,809,29,96,https://fakestoreapi.com/users/11,779,0,0
+1683971365373,799,"HTTP Request for ""get in date range """,200,OK,cart 2-25,text,true,,1631,163,30,96,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,799,0,0
+1683971365392,790,"HTTP Request for ""get in date range """,200,OK,cart 2-16,text,true,,1639,163,30,96,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,790,0,0
+1683971365391,791,"HTTP Request for ""Add user""",200,OK,users 3-20,text,true,,703,879,29,96,https://fakestoreapi.com/users,791,0,0
+1683971365392,797,"HTTP Request for ""Sort results""",200,OK,users 3-22,text,true,,3688,132,29,96,https://fakestoreapi.com/users?sort=asc,796,0,0
+1683971365391,815,"HTTP Request for ""Sort results""",200,OK,users 3-27,text,true,,3706,132,29,96,https://fakestoreapi.com/users?sort=asc,814,0,0
+1683971365435,775,"HTTP Request for ""get in date range """,200,OK,cart 2-18,text,true,,1647,163,30,96,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,775,0,0
+1683971363452,2759,"HTTP Request for ""Sort results""",200,OK,users 3-7,text,true,,3702,132,29,96,https://fakestoreapi.com/users?sort=asc,836,0,0
+1683971365834,409,"HTTP Request for ""Update a cart""",200,OK,cart 2-20,text,true,,700,319,30,96,https://fakestoreapi.com/carts/11,409,0,0
+1683971365861,389,"HTTP Request for ""Update a cart""",200,OK,cart 2-13,text,true,,710,319,30,96,https://fakestoreapi.com/carts/11,389,0,0
+1683971365862,396,"HTTP Request for ""Update a cart""",200,OK,cart 2-7,text,true,,700,319,30,96,https://fakestoreapi.com/carts/11,396,0,0
+1683971365868,393,"HTTP Request for ""Get all categories""",200,OK,products 1-20,text,true,,761,182,30,96,https://fakestoreapi.com/products/categories,393,0,0
+1683971365866,401,"HTTP Request for ""Update a product""",200,OK,products 1-12,text,true,,706,425,30,96,https://fakestoreapi.com/products/21,401,0,0
+1683971365868,405,"HTTP Request for ""Get all categories""",200,OK,products 1-28,text,true,,761,182,30,96,https://fakestoreapi.com/products/categories,405,0,0
+1683971365870,403,"HTTP Request for ""Add new cart  """,200,OK,cart 2-10,text,true,,704,343,30,96,https://fakestoreapi.com/carts,403,0,0
+1683971365869,404,"HTTP Request for ""Add new cart  """,200,OK,cart 2-28,text,true,,704,343,30,96,https://fakestoreapi.com/carts,404,0,0
+1683971365862,422,"HTTP Request for ""Limit results""",200,OK,products 1-11,text,true,,3005,179,30,96,https://fakestoreapi.com/products?limit=5,406,0,0
+1683971365867,421,"HTTP Request for ""Limit results""",200,OK,products 1-14,text,true,,3013,179,30,96,https://fakestoreapi.com/products?limit=5,406,0,0
+1683971365901,397,"HTTP Request for "" Add new product""",200,OK,products 1-18,text,true,,706,424,30,96,https://fakestoreapi.com/products,397,0,0
+1683971365540,784,"HTTP Request for ""Limit results""",200,OK,users 3-4,text,true,,2200,131,29,96,https://fakestoreapi.com/users?limit=5,784,0,0
+1683971365506,818,"HTTP Request for ""Sort results""",200,OK,users 3-25,text,true,,3694,132,29,96,https://fakestoreapi.com/users?sort=asc,818,0,0
+1683971365578,756,"HTTP Request for ""Limitresults """,200,OK,cart 2-11,text,true,,1397,131,30,96,https://fakestoreapi.com/carts?limit=5,756,0,0
+1683971365599,737,"HTTP Request for ""get user cart""",200,OK,cart 2-9,text,true,,832,130,30,96,https://fakestoreapi.com/carts/user/2,737,0,0
+1683971365537,800,"HTTP Request for ""Get in category""",200,OK,products 1-10,text,true,,2242,189,30,96,https://fakestoreapi.com/products/category/jewelery,799,0,0
+1683971365574,765,"HTTP Request for ""Get a single product""",200,OK,products 1-4,text,true,,1067,173,30,96,https://fakestoreapi.com/products/1,765,0,0
+1683971365536,805,"HTTP Request for ""Get in category""",200,OK,products 1-17,text,true,,2238,189,30,96,https://fakestoreapi.com/products/category/jewelery,805,0,0
+1683971365594,747,"HTTP Request for ""Sort results""",200,OK,users 3-5,text,true,,3692,132,29,96,https://fakestoreapi.com/users?sort=asc,747,0,0
+1683971365601,751,"HTTP Request for ""Sort results """,200,OK,cart 2-27,text,true,,1633,133,30,96,https://fakestoreapi.com/carts?sort=desc,745,0,0
+1683971365601,760,"HTTP Request for ""Add user""",200,OK,users 3-9,text,true,,704,879,29,96,https://fakestoreapi.com/users,760,0,0
+1683971365619,748,"HTTP Request for ""Get all categories""",200,OK,products 1-2,text,true,,757,182,30,96,https://fakestoreapi.com/products/categories,748,0,0
+1683971366025,375,"HTTP Request for ""Add new cart  """,200,OK,cart 2-1,text,true,,702,343,30,96,https://fakestoreapi.com/carts,375,0,0
+1683971366010,395,"HTTP Request for ""Add new cart  """,200,OK,cart 2-23,text,true,,704,343,30,96,https://fakestoreapi.com/carts,395,0,0
+1683971366030,407,"HTTP Request for ""Limit results""",200,OK,products 1-24,text,true,,3005,179,30,96,https://fakestoreapi.com/products?limit=5,390,0,0
+1683971365693,785,"HTTP Request for ""Add user""",200,OK,users 3-14,text,true,,708,879,29,96,https://fakestoreapi.com/users,785,0,0
+1683971365845,640,"HTTP Request for ""Delete Users """,200,OK,users 3-11,text,true,,989,211,29,96,https://fakestoreapi.com/users/1,640,0,0
+1683971365845,649,"HTTP Request for ""Get a single""",200,OK,users 3-29,text,true,,987,125,28,95,https://fakestoreapi.com/users/1,649,0,0
+1683971365845,660,"HTTP Request for ""Update users""",200,OK,users 3-15,text,true,,995,808,28,95,https://fakestoreapi.com/users/1,660,0,0
+1683971365861,645,"HTTP Request for ""Get a single """,200,OK,cart 2-29,text,true,,832,125,30,95,https://fakestoreapi.com/carts/5,645,0,0
+1683971365860,654,"HTTP Request for ""Limit results""",200,OK,users 3-19,text,true,,2186,131,28,95,https://fakestoreapi.com/users?limit=5,654,0,0
+1683971364773,1748,"HTTP Request for ""Sort results ",200,OK,products 1-19,text,true,,11320,181,30,95,https://fakestoreapi.com/products?sort=desc,668,0,0
+1683971365864,665,"HTTP Request for ""Get a single""",200,OK,users 3-21,text,true,,993,125,28,95,https://fakestoreapi.com/users/1,665,0,0
+1683971365090,1442,"HTTP Request for ""Sort results ",200,OK,products 1-9,text,true,,11324,181,30,95,https://fakestoreapi.com/products?sort=desc,504,0,0
+1683971365860,673,"HTTP Request for ""Update users""",200,OK,users 3-1,text,true,,695,809,28,95,https://fakestoreapi.com/users/11,673,0,0
+1683971365833,702,"HTTP Request for ""Get in category""",200,OK,products 1-27,text,true,,2240,189,30,95,https://fakestoreapi.com/products/category/jewelery,696,0,0
+1683971363092,3452,"HTTP Request for ""Sort results""",200,OK,users 3-13,text,true,,3686,132,28,95,https://fakestoreapi.com/users?sort=asc,2250,0,0
+1683971366155,402,"HTTP Request for ""Get all categories""",200,OK,products 1-25,text,true,,759,182,30,95,https://fakestoreapi.com/products/categories,402,0,0
+1683971358202,8389,"HTTP Request for ""Get all""",200,OK,users 3-6,text,true,,3686,123,28,95,https://fakestoreapi.com/users,8389,0,3977
+1683971365873,765,"HTTP Request for "" Add new product""",200,OK,products 1-29,text,true,,706,424,30,95,https://fakestoreapi.com/products,765,0,0
+1683971365868,773,"HTTP Request for ""Limit results""",200,OK,users 3-23,text,true,,2196,131,28,95,https://fakestoreapi.com/users?limit=5,773,0,0
+1683971365862,779,"HTTP Request for ""Get in category""",200,OK,products 1-7,text,true,,2244,189,30,95,https://fakestoreapi.com/products/category/jewelery,779,0,0
+1683971365863,782,"HTTP Request for ""Delete a cart """,200,OK,cart 2-5,text,true,,697,212,30,95,https://fakestoreapi.com/carts/11,782,0,0
+1683971366273,387,"HTTP Request for ""Update a cart""",200,OK,cart 2-10,text,true,,706,319,29,94,https://fakestoreapi.com/carts/11,387,0,0
+1683971365874,788,"HTTP Request for ""Sort results""",200,OK,users 3-28,text,true,,3690,132,28,94,https://fakestoreapi.com/users?sort=asc,785,0,0
+1683971365878,786,"HTTP Request for ""Sort results ",200,OK,products 1-15,text,true,,11332,181,30,94,https://fakestoreapi.com/products?sort=desc,784,0,0
+1683971365902,762,"HTTP Request for ""Sort results ",200,OK,products 1-22,text,true,,11326,181,30,94,https://fakestoreapi.com/products?sort=desc,760,0,0
+1683971366273,394,"HTTP Request for ""Update a cart""",200,OK,cart 2-28,text,true,,706,319,29,94,https://fakestoreapi.com/carts/11,394,0,0
+1683971365869,799,"HTTP Request for ""Limit results""",200,OK,users 3-18,text,true,,2188,131,28,94,https://fakestoreapi.com/users?limit=5,799,0,0
+1683971365872,805,"HTTP Request for ""get in date range """,200,OK,cart 2-14,text,true,,1639,163,29,94,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,804,0,0
+1683971365870,817,"HTTP Request for ""Limitresults """,200,OK,cart 2-15,text,true,,1393,131,29,94,https://fakestoreapi.com/carts?limit=5,817,0,0
+1683971366298,392,"HTTP Request for ""Update a product""",200,OK,products 1-18,text,true,,704,425,30,94,https://fakestoreapi.com/products/21,392,0,0
+1683971366285,407,"HTTP Request for ""Sort results ",200,OK,products 1-11,text,true,,11318,181,30,94,https://fakestoreapi.com/products?sort=desc,407,0,0
+1683971365883,813,"HTTP Request for ""get user cart""",200,OK,cart 2-6,text,true,,832,130,29,94,https://fakestoreapi.com/carts/user/2,813,0,0
+1683971365869,839,"HTTP Request for ""get user cart""",200,OK,cart 2-17,text,true,,832,130,29,94,https://fakestoreapi.com/carts/user/2,839,0,0
+1683971365872,850,"HTTP Request for ""Get in category""",200,OK,products 1-3,text,true,,2242,189,30,94,https://fakestoreapi.com/products/category/jewelery,850,0,0
+1683971366336,398,"HTTP Request for ""Add new cart  """,200,OK,cart 2-9,text,true,,704,343,29,94,https://fakestoreapi.com/carts,398,0,0
+1683971366340,395,"HTTP Request for ""Limit results""",200,OK,products 1-4,text,true,,3009,179,30,94,https://fakestoreapi.com/products?limit=5,395,0,0
+1683971366342,393,"HTTP Request for "" Add new product""",200,OK,products 1-17,text,true,,704,424,30,94,https://fakestoreapi.com/products,393,0,0
+1683971366337,403,"HTTP Request for "" Add new product""",200,OK,products 1-10,text,true,,702,424,30,94,https://fakestoreapi.com/products,403,0,0
+1683971366401,371,"HTTP Request for ""Update a cart""",200,OK,cart 2-1,text,true,,712,319,29,94,https://fakestoreapi.com/carts/11,371,0,0
+1683971366406,384,"HTTP Request for ""Update a cart""",200,OK,cart 2-23,text,true,,712,319,29,94,https://fakestoreapi.com/carts/11,384,0,0
+1683971365958,837,"HTTP Request for ""Delete a cart """,200,OK,cart 2-3,text,true,,701,212,29,94,https://fakestoreapi.com/carts/11,837,0,0
+1683971366000,799,"HTTP Request for ""Get in category""",200,OK,products 1-13,text,true,,2236,189,30,93,https://fakestoreapi.com/products/category/jewelery,799,0,0
+1683971366000,806,"HTTP Request for ""get in date range """,200,OK,cart 2-26,text,true,,1639,163,28,93,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,806,0,0
+1683971365982,829,"HTTP Request for ""Add user""",200,OK,users 3-30,text,true,,706,879,28,93,https://fakestoreapi.com/users,829,0,0
+1683971366001,823,"HTTP Request for ""get in date range """,200,OK,cart 2-30,text,true,,1637,163,28,93,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,822,0,0
+1683971366001,836,"HTTP Request for ""Update users""",200,OK,users 3-2,text,true,,699,809,28,93,https://fakestoreapi.com/users/11,836,0,0
+1683971366008,837,"HTTP Request for ""Sort results """,200,OK,cart 2-4,text,true,,1635,133,28,93,https://fakestoreapi.com/carts?sort=desc,837,0,0
+1683971366030,816,"HTTP Request for ""Get in category""",200,OK,products 1-6,text,true,,2242,189,30,93,https://fakestoreapi.com/products/category/jewelery,816,0,0
+1683971366032,818,"HTTP Request for ""Get in category""",200,OK,products 1-1,text,true,,2232,189,30,93,https://fakestoreapi.com/products/category/jewelery,818,0,0
+1683971366437,433,"HTTP Request for ""Sort results ",200,OK,products 1-24,text,true,,11332,181,30,93,https://fakestoreapi.com/products?sort=desc,390,0,0
+1683971366532,393,"HTTP Request for ""Get all categories""",200,OK,products 1-9,text,true,,755,182,30,93,https://fakestoreapi.com/products/categories,393,0,0
+1683971366522,403,"HTTP Request for ""Get all categories""",200,OK,products 1-19,text,true,,759,182,30,93,https://fakestoreapi.com/products/categories,403,0,0
+1683971366536,396,"HTTP Request for "" Add new product""",200,OK,products 1-27,text,true,,710,424,30,93,https://fakestoreapi.com/products,396,0,0
+1683971366049,904,"HTTP Request for ""get in date range """,200,OK,cart 2-12,text,true,,1633,163,28,93,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,904,0,0
+1683971366127,900,"HTTP Request for ""Add user""",200,OK,users 3-12,text,true,,708,879,28,93,https://fakestoreapi.com/users,900,0,0
+1683971366094,933,"HTTP Request for ""Sort results """,200,OK,cart 2-8,text,true,,1633,133,28,93,https://fakestoreapi.com/carts?sort=desc,933,0,0
+1683971366142,885,"HTTP Request for ""Get in category""",200,OK,products 1-16,text,true,,2242,189,30,93,https://fakestoreapi.com/products/category/jewelery,885,0,0
+1683971366156,872,"HTTP Request for ""Update users""",200,OK,users 3-3,text,true,,701,809,28,93,https://fakestoreapi.com/users/11,872,0,0
+1683971366172,857,"HTTP Request for ""Delete Users """,200,OK,users 3-16,text,true,,703,212,28,93,https://fakestoreapi.com/users/11,857,0,0
+1683971366172,863,"HTTP Request for ""get user cart""",200,OK,cart 2-25,text,true,,834,130,28,92,https://fakestoreapi.com/carts/user/2,863,0,0
+1683971366182,853,"HTTP Request for ""get user cart""",200,OK,cart 2-16,text,true,,834,130,28,92,https://fakestoreapi.com/carts/user/2,853,0,0
+1683971366639,397,"HTTP Request for ""Update a product""",200,OK,products 1-29,text,true,,712,425,30,92,https://fakestoreapi.com/products/21,397,0,0
+1683971366641,395,"HTTP Request for "" Add new product""",200,OK,products 1-7,text,true,,710,424,30,92,https://fakestoreapi.com/products,395,0,0
+1683971366288,755,"HTTP Request for ""Sort results ",200,OK,products 1-14,text,true,,11330,181,30,92,https://fakestoreapi.com/products?sort=desc,755,0,0
+1683971366665,395,"HTTP Request for ""Get all categories""",200,OK,products 1-22,text,true,,753,182,30,92,https://fakestoreapi.com/products/categories,395,0,0
+1683971366664,405,"HTTP Request for ""Get all categories""",200,OK,products 1-15,text,true,,763,182,30,92,https://fakestoreapi.com/products/categories,405,0,0
+1683971366693,394,"HTTP Request for ""Get all categories""",200,OK,products 1-11,text,true,,761,182,30,92,https://fakestoreapi.com/products/categories,394,0,0
+1683971358194,8893,"HTTP Request for ""Get all products""",200,OK,products 1-8,text,true,,11322,171,30,92,https://fakestoreapi.com/products,2039,0,844
+1683971358564,8527,"HTTP Request for ""Get all""",200,OK,users 3-17,text,true,,3702,123,27,92,https://fakestoreapi.com/users,8524,0,4494
+1683971366722,395,"HTTP Request for "" Add new product""",200,OK,products 1-3,text,true,,708,424,30,92,https://fakestoreapi.com/products,395,0,0
+1683971366708,409,"HTTP Request for ""Add new cart  """,200,OK,cart 2-17,text,true,,704,343,28,92,https://fakestoreapi.com/carts,409,0,0
+1683971366183,935,"HTTP Request for ""Update users""",200,OK,users 3-20,text,true,,983,808,27,92,https://fakestoreapi.com/users/1,935,0,0
+1683971366735,391,"HTTP Request for ""Update a product""",200,OK,products 1-17,text,true,,698,425,30,92,https://fakestoreapi.com/products/21,391,0,0
+1683971366734,396,"HTTP Request for ""Update a cart""",200,OK,cart 2-9,text,true,,706,319,28,92,https://fakestoreapi.com/carts/11,396,0,0
+1683971358773,8358,"HTTP Request for ""Get all products""",200,OK,products 1-21,text,true,,11320,171,30,92,https://fakestoreapi.com/products,8346,0,4450
+1683971366206,926,"HTTP Request for ""Add user""",200,OK,users 3-27,text,true,,708,879,27,92,https://fakestoreapi.com/users,926,0,0
+1683971366740,394,"HTTP Request for ""Update a product""",200,OK,products 1-10,text,true,,714,425,30,92,https://fakestoreapi.com/products/21,394,0,0
+1683971366735,401,"HTTP Request for ""Sort results ",200,OK,products 1-4,text,true,,11328,181,30,92,https://fakestoreapi.com/products?sort=desc,400,0,0
+1683971366211,925,"HTTP Request for ""Add user""",200,OK,users 3-7,text,true,,706,879,27,92,https://fakestoreapi.com/users,925,0,0
+1683971366211,940,"HTTP Request for ""get user cart""",200,OK,cart 2-18,text,true,,836,130,28,92,https://fakestoreapi.com/carts/user/2,940,0,0
+1683971366250,925,"HTTP Request for ""Delete a cart """,200,OK,cart 2-13,text,true,,703,212,28,92,https://fakestoreapi.com/carts/11,925,0,0
+1683971366262,922,"HTTP Request for ""Get in category""",200,OK,products 1-20,text,true,,2238,189,30,91,https://fakestoreapi.com/products/category/jewelery,922,0,0
+1683971366243,941,"HTTP Request for ""Delete a cart """,200,OK,cart 2-20,text,true,,697,212,27,91,https://fakestoreapi.com/carts/11,941,0,0
+1683971366258,927,"HTTP Request for ""Delete a cart """,200,OK,cart 2-7,text,true,,699,212,26,90,https://fakestoreapi.com/carts/11,927,0,0
+1683971366799,399,"HTTP Request for "" Add new product""",200,OK,products 1-13,text,true,,706,424,30,89,https://fakestoreapi.com/products,399,0,0
+1683971366847,392,"HTTP Request for "" Add new product""",200,OK,products 1-6,text,true,,708,424,30,89,https://fakestoreapi.com/products,392,0,0
+1683971366850,398,"HTTP Request for "" Add new product""",200,OK,products 1-1,text,true,,704,424,30,89,https://fakestoreapi.com/products,398,0,0
+1683971366870,393,"HTTP Request for ""Get all categories""",200,OK,products 1-24,text,true,,759,182,30,89,https://fakestoreapi.com/products/categories,393,0,0
+1683971366267,1006,"HTTP Request for ""Delete a product""",200,OK,products 1-12,text,true,,705,196,30,89,https://fakestoreapi.com/products/21,1006,0,0
+1683971358545,8740,"HTTP Request for ""Login""",200,OK,Login 4-16,text,true,,850,276,7,88,https://fakestoreapi.com/auth/login,8740,0,7731
+1683971366273,1018,"HTTP Request for ""Get in category""",200,OK,products 1-28,text,true,,2236,189,29,87,https://fakestoreapi.com/products/category/jewelery,1018,0,0
+1683971366325,976,"HTTP Request for ""Add user""",200,OK,users 3-25,text,true,,708,879,27,87,https://fakestoreapi.com/users,976,0,0
+1683971358451,8854,"HTTP Request for ""Login""",200,OK,Login 4-13,text,true,,852,276,6,87,https://fakestoreapi.com/auth/login,8854,0,7881
+1683971358843,8490,"HTTP Request for ""Get all""",200,OK,users 3-24,text,true,,3694,123,27,86,https://fakestoreapi.com/users,8490,0,4286
+1683971366334,1000,"HTTP Request for ""Sort results """,200,OK,cart 2-11,text,true,,1635,133,25,86,https://fakestoreapi.com/carts?sort=desc,1000,0,0
+1683971366352,1003,"HTTP Request for ""get in date range """,200,OK,cart 2-27,text,true,,1635,163,25,86,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,1003,0,0
+1683971366368,989,"HTTP Request for ""Get in category""",200,OK,products 1-2,text,true,,2240,189,29,86,https://fakestoreapi.com/products/category/jewelery,989,0,0
+1683971366324,1042,"HTTP Request for ""Sort results""",200,OK,users 3-4,text,true,,3692,132,27,86,https://fakestoreapi.com/users?sort=asc,1041,0,0
+1683971366933,474,"HTTP Request for ""Update a product""",200,OK,products 1-27,text,true,,708,425,29,86,https://fakestoreapi.com/products/21,474,0,0
+1683971358798,8615,"HTTP Request for ""Get all """,200,OK,cart 2-21,text,true,,1641,123,25,86,https://fakestoreapi.com/carts,8615,0,4509
+1683971367035,391,"HTTP Request for ""Add new cart  """,200,OK,cart 2-25,text,true,,704,343,25,86,https://fakestoreapi.com/carts,391,0,0
+1683971367032,394,"HTTP Request for "" Add new product""",200,OK,products 1-16,text,true,,706,424,29,86,https://fakestoreapi.com/products,394,0,0
+1683971366697,731,"HTTP Request for ""Add new cart  """,200,OK,cart 2-6,text,true,,708,343,25,86,https://fakestoreapi.com/carts,731,0,0
+1683971366361,1068,"HTTP Request for ""Update users""",200,OK,users 3-9,text,true,,699,809,27,86,https://fakestoreapi.com/users/11,1068,0,0
+1683971367036,396,"HTTP Request for ""Update a product""",200,OK,products 1-7,text,true,,702,425,29,86,https://fakestoreapi.com/products/21,396,0,0
+1683971367043,389,"HTTP Request for ""Get all categories""",200,OK,products 1-14,text,true,,757,182,29,86,https://fakestoreapi.com/products/categories,389,0,0
+1683971358173,9259,"HTTP Request for ""Get all products""",200,OK,products 1-5,text,true,,11324,171,29,86,https://fakestoreapi.com/products,9248,0,5122
+1683971367036,401,"HTTP Request for ""Add new cart  """,200,OK,cart 2-16,text,true,,706,343,25,86,https://fakestoreapi.com/carts,401,0,0
+1683971366044,1402,"HTTP Request for ""Add user""",200,OK,users 3-8,text,true,,701,879,27,86,https://fakestoreapi.com/users,1402,0,0
+1683971366036,1415,"HTTP Request for ""Sort results """,200,OK,cart 2-19,text,true,,1635,133,25,86,https://fakestoreapi.com/carts?sort=desc,1415,0,0
+1683971358792,8672,"HTTP Request for ""Login""",200,OK,Login 4-20,text,true,,854,276,5,86,https://fakestoreapi.com/auth/login,8672,0,7686
+1683971364149,3339,"HTTP Request for ""Sort results ",200,OK,products 1-26,text,true,,11322,181,29,85,https://fakestoreapi.com/products?sort=desc,1398,0,0
+1683971366505,988,"HTTP Request for ""Delete Users """,200,OK,users 3-15,text,true,,987,211,27,85,https://fakestoreapi.com/users/1,988,0,0
+1683971367118,393,"HTTP Request for ""Update a product""",200,OK,products 1-3,text,true,,700,425,29,84,https://fakestoreapi.com/products/21,393,0,0
+1683971366506,1006,"HTTP Request for ""Limitresults """,200,OK,cart 2-29,text,true,,1403,131,25,84,https://fakestoreapi.com/carts?limit=5,1006,0,0
+1683971366495,1017,"HTTP Request for ""Limit results""",200,OK,users 3-29,text,true,,2184,131,26,84,https://fakestoreapi.com/users?limit=5,1017,0,0
+1683971366515,1005,"HTTP Request for ""Sort results""",200,OK,users 3-19,text,true,,3698,132,26,84,https://fakestoreapi.com/users?sort=asc,1005,0,0
+1683971367136,385,"HTTP Request for ""Get all categories""",200,OK,products 1-4,text,true,,759,182,29,84,https://fakestoreapi.com/products/categories,385,0,0
+1683971367118,410,"HTTP Request for ""Update a cart""",200,OK,cart 2-17,text,true,,710,319,25,84,https://fakestoreapi.com/carts/11,410,0,0
+1683971367133,396,"HTTP Request for ""Get a single product""",200,OK,products 1-21,text,true,,1063,173,29,84,https://fakestoreapi.com/products/1,396,0,0
+1683971367152,396,"HTTP Request for ""Add new cart  """,200,OK,cart 2-18,text,true,,704,343,25,84,https://fakestoreapi.com/carts,396,0,0
+1683971367184,390,"HTTP Request for "" Add new product""",200,OK,products 1-20,text,true,,700,424,29,84,https://fakestoreapi.com/products,390,0,0
+1683971367199,402,"HTTP Request for ""Update a product""",200,OK,products 1-13,text,true,,708,425,29,84,https://fakestoreapi.com/products/21,402,0,0
+1683971366529,1091,"HTTP Request for ""Limit results""",200,OK,users 3-21,text,true,,2192,131,26,84,https://fakestoreapi.com/users?limit=5,1091,0,0
+1683971366190,1430,"HTTP Request for ""Add user""",200,OK,users 3-22,text,true,,706,879,26,84,https://fakestoreapi.com/users,1430,0,0
+1683971358813,8807,"HTTP Request for ""Get all """,200,OK,cart 2-24,text,true,,1633,123,25,84,https://fakestoreapi.com/carts,8807,0,7396
+1683971366557,1075,"HTTP Request for ""Get in category""",200,OK,products 1-25,text,true,,2230,189,29,84,https://fakestoreapi.com/products/category/jewelery,1075,0,0
+1683971367240,402,"HTTP Request for ""Update a product""",200,OK,products 1-6,text,true,,710,425,29,84,https://fakestoreapi.com/products/21,402,0,0
+1683971366641,1001,"HTTP Request for ""Sort results""",200,OK,users 3-23,text,true,,3686,132,26,84,https://fakestoreapi.com/users?sort=asc,1001,0,0
+1683971367249,401,"HTTP Request for ""Update a product""",200,OK,products 1-1,text,true,,708,425,29,84,https://fakestoreapi.com/products/21,401,0,0
+1683971366660,997,"HTTP Request for ""Delete a cart """,200,OK,cart 2-10,text,true,,707,212,25,84,https://fakestoreapi.com/carts/11,997,0,0
+1683971366668,1010,"HTTP Request for ""Sort results""",200,OK,users 3-18,text,true,,3694,132,26,83,https://fakestoreapi.com/users?sort=asc,1010,0,0
+1683971367291,399,"HTTP Request for "" Add new product""",200,OK,products 1-28,text,true,,710,424,29,83,https://fakestoreapi.com/products,399,0,0
+1683971366662,1030,"HTTP Request for ""Add user""",200,OK,users 3-28,text,true,,702,879,26,83,https://fakestoreapi.com/users,1030,0,0
+1683971367357,394,"HTTP Request for "" Add new product""",200,OK,products 1-2,text,true,,706,424,29,83,https://fakestoreapi.com/products,393,0,0
+1683971366668,1092,"HTTP Request for ""Delete a cart """,200,OK,cart 2-28,text,true,,701,212,24,83,https://fakestoreapi.com/carts/11,1092,0,0
+1683971366772,994,"HTTP Request for ""Delete a cart """,200,OK,cart 2-1,text,true,,697,212,23,82,https://fakestoreapi.com/carts/11,994,0,0
+1683971366677,1090,"HTTP Request for ""get user cart""",200,OK,cart 2-14,text,true,,840,130,22,81,https://fakestoreapi.com/carts/user/2,1090,0,0
+1683971366690,1078,"HTTP Request for ""Delete a product""",200,OK,products 1-18,text,true,,695,196,29,81,https://fakestoreapi.com/products/21,1078,0,0
+1683971366687,1087,"HTTP Request for ""Sort results """,200,OK,cart 2-15,text,true,,1633,133,22,80,https://fakestoreapi.com/carts?sort=desc,1087,0,0
+1683971358169,9617,"HTTP Request for ""Get all """,200,OK,cart 2-2,text,true,,1643,123,22,80,https://fakestoreapi.com/carts,9617,0,5200
+1683971358242,9566,"HTTP Request for ""Login""",200,OK,Login 4-7,text,true,,850,276,4,80,https://fakestoreapi.com/auth/login,9566,0,8155
+1683971367426,391,"HTTP Request for ""Update a cart""",200,OK,cart 2-25,text,true,,706,319,22,79,https://fakestoreapi.com/carts/11,391,0,0
+1683971367429,388,"HTTP Request for ""Update a cart""",200,OK,cart 2-6,text,true,,706,319,22,79,https://fakestoreapi.com/carts/11,388,0,0
+1683971367426,397,"HTTP Request for ""Update a product""",200,OK,products 1-16,text,true,,708,425,28,79,https://fakestoreapi.com/products/21,397,0,0
+1683971366791,1032,"HTTP Request for ""Delete a cart """,200,OK,cart 2-23,text,true,,703,212,22,79,https://fakestoreapi.com/carts/11,1032,0,0
+1683971367437,391,"HTTP Request for ""Update a cart""",200,OK,cart 2-16,text,true,,700,319,21,78,https://fakestoreapi.com/carts/11,391,0,0
+1683971366806,1025,"HTTP Request for ""get user cart""",200,OK,cart 2-26,text,true,,826,130,21,78,https://fakestoreapi.com/carts/user/2,1025,0,0
+1683971366811,1025,"HTTP Request for ""Update users""",200,OK,users 3-30,text,true,,697,809,26,78,https://fakestoreapi.com/users/11,1025,0,0
+1683971367088,765,"HTTP Request for ""Get a single product""",200,OK,products 1-8,text,true,,1063,173,28,78,https://fakestoreapi.com/products/1,765,0,0
+1683971367488,393,"HTTP Request for ""Get all categories""",200,OK,products 1-26,text,true,,763,182,28,78,https://fakestoreapi.com/products/categories,393,0,0
+1683971366341,1575,"HTTP Request for ""Add user""",200,OK,users 3-5,text,true,,702,879,26,78,https://fakestoreapi.com/users,1575,0,0
+1683971366837,1090,"HTTP Request for ""Delete Users """,200,OK,users 3-2,text,true,,707,212,26,78,https://fakestoreapi.com/users/11,1090,0,0
+1683971366824,1103,"HTTP Request for ""get user cart""",200,OK,cart 2-30,text,true,,840,130,21,78,https://fakestoreapi.com/carts/user/2,1103,0,0
+1683971367529,402,"HTTP Request for ""Limit results""",200,OK,products 1-21,text,true,,3005,179,28,77,https://fakestoreapi.com/products?limit=5,402,0,0
+1683971367548,383,"HTTP Request for ""Update a cart""",200,OK,cart 2-18,text,true,,704,319,21,77,https://fakestoreapi.com/carts/11,383,0,0
+1683971366478,1454,"HTTP Request for ""Update users""",200,OK,users 3-14,text,true,,693,809,25,77,https://fakestoreapi.com/users/11,1454,0,0
+1683971366845,1114,"HTTP Request for ""get in date range """,200,OK,cart 2-4,text,true,,1643,163,21,77,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,1114,0,0
+1683971367574,388,"HTTP Request for ""Update a product""",200,OK,products 1-20,text,true,,710,425,28,77,https://fakestoreapi.com/products/21,388,0,0
+1683971358311,9666,"HTTP Request for ""Login""",200,OK,Login 4-9,text,true,,850,276,3,77,https://fakestoreapi.com/auth/login,9666,0,8196
+1683971366533,1481,"HTTP Request for ""Delete Users """,200,OK,users 3-1,text,true,,707,212,25,76,https://fakestoreapi.com/users/11,1481,0,0
+1683971366544,1470,"HTTP Request for ""Add user""",200,OK,users 3-13,text,true,,704,879,25,76,https://fakestoreapi.com/users,1470,0,0
+1683971367633,385,"HTTP Request for "" Add new product""",200,OK,products 1-25,text,true,,714,424,28,75,https://fakestoreapi.com/products,385,0,0
+1683971358874,9203,"HTTP Request for ""Get all""",200,OK,users 3-26,text,true,,3688,123,24,75,https://fakestoreapi.com/users,9202,0,7709
+1683971366592,1501,"HTTP Request for ""Get a single""",200,OK,users 3-6,text,true,,991,125,24,75,https://fakestoreapi.com/users/1,1501,0,0
+1683971367690,403,"HTTP Request for ""Update a product""",200,OK,products 1-28,text,true,,700,425,28,75,https://fakestoreapi.com/products/21,403,0,0
+1683971366954,1139,"HTTP Request for ""get user cart""",200,OK,cart 2-12,text,true,,834,130,21,75,https://fakestoreapi.com/carts/user/2,1139,0,0
+1683971367028,1068,"HTTP Request for ""Update users""",200,OK,users 3-12,text,true,,707,809,24,75,https://fakestoreapi.com/users/11,1068,0,0
+1683971367029,1088,"HTTP Request for ""get in date range """,200,OK,cart 2-8,text,true,,1641,163,21,75,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,1077,0,0
+1683971366926,1203,"HTTP Request for ""Get in category""",200,OK,products 1-9,text,true,,2234,189,28,75,https://fakestoreapi.com/products/category/jewelery,1201,0,0
+1683971367751,393,"HTTP Request for ""Update a product""",200,OK,products 1-2,text,true,,704,425,28,75,https://fakestoreapi.com/products/21,393,0,0
+1683971367036,1112,"HTTP Request for ""Delete a product""",200,OK,products 1-29,text,true,,709,196,28,75,https://fakestoreapi.com/products/21,1112,0,0
+1683971367767,394,"HTTP Request for ""Add new cart  """,200,OK,cart 2-14,text,true,,704,343,21,74,https://fakestoreapi.com/carts,394,0,0
+1683971366926,1235,"HTTP Request for ""Get in category""",200,OK,products 1-19,text,true,,2240,189,27,74,https://fakestoreapi.com/products/category/jewelery,1235,0,0
+1683971367061,1114,"HTTP Request for ""Get in category""",200,OK,products 1-22,text,true,,2242,189,27,74,https://fakestoreapi.com/products/category/jewelery,1114,0,0
+1683971367029,1148,"HTTP Request for ""Delete Users """,200,OK,users 3-3,text,true,,699,212,24,74,https://fakestoreapi.com/users/11,1148,0,0
+1683971367433,749,"HTTP Request for ""Get a single product""",200,OK,products 1-5,text,true,,1059,173,27,73,https://fakestoreapi.com/products/1,749,0,0
+1683971367831,373,"HTTP Request for ""Add new cart  """,200,OK,cart 2-26,text,true,,702,343,21,73,https://fakestoreapi.com/carts,373,0,0
+1683971367069,1164,"HTTP Request for ""Get in category""",200,OK,products 1-15,text,true,,2234,189,27,73,https://fakestoreapi.com/products/category/jewelery,1163,0,0
+1683971367087,1153,"HTTP Request for ""Get in category""",200,OK,products 1-11,text,true,,2234,189,27,73,https://fakestoreapi.com/products/category/jewelery,1153,0,0
+1683971367118,1127,"HTTP Request for ""Delete Users """,200,OK,users 3-20,text,true,,997,211,23,73,https://fakestoreapi.com/users/1,1127,0,0
+1683971367132,1116,"HTTP Request for ""Delete a cart """,200,OK,cart 2-9,text,true,,693,212,21,72,https://fakestoreapi.com/carts/11,1116,0,0
+1683971367853,397,"HTTP Request for ""Limit results""",200,OK,products 1-8,text,true,,3003,179,27,71,https://fakestoreapi.com/products?limit=5,397,0,0
+1683971367126,1134,"HTTP Request for ""Delete a product""",200,OK,products 1-17,text,true,,699,196,27,71,https://fakestoreapi.com/products/21,1134,0,0
+1683971367134,1143,"HTTP Request for ""Update users""",200,OK,users 3-27,text,true,,707,809,22,70,https://fakestoreapi.com/users/11,1143,0,0
+1683971367927,404,"HTTP Request for ""Add new cart  """,200,OK,cart 2-30,text,true,,704,343,20,70,https://fakestoreapi.com/carts,404,0,0
+1683971367263,1074,"HTTP Request for ""Get in category""",200,OK,products 1-24,text,true,,2238,189,26,70,https://fakestoreapi.com/products/category/jewelery,1072,0,0
+1683971367302,1041,"HTTP Request for ""Update users""",200,OK,users 3-25,text,true,,699,809,22,70,https://fakestoreapi.com/users/11,1041,0,0
+1683971367931,416,"HTTP Request for ""Sort results ",200,OK,products 1-21,text,true,,11318,181,26,70,https://fakestoreapi.com/products?sort=desc,412,0,0
+1683971367137,1210,"HTTP Request for ""Update users""",200,OK,users 3-7,text,true,,703,809,22,70,https://fakestoreapi.com/users/11,1210,0,0
+1683971367334,1026,"HTTP Request for ""Get a single""",200,OK,users 3-24,text,true,,985,125,22,70,https://fakestoreapi.com/users/1,1026,0,0
+1683971367335,1050,"HTTP Request for ""get in date range """,200,OK,cart 2-11,text,true,,1639,163,20,70,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,1050,0,0
+1683971367356,1036,"HTTP Request for ""get user cart""",200,OK,cart 2-27,text,true,,830,130,20,70,https://fakestoreapi.com/carts/user/2,1036,0,0
+1683971368019,389,"HTTP Request for ""Update a product""",200,OK,products 1-25,text,true,,706,425,26,70,https://fakestoreapi.com/products/21,389,0,0
+1683971367407,1008,"HTTP Request for ""Delete a product""",200,OK,products 1-27,text,true,,707,196,26,70,https://fakestoreapi.com/products/21,1008,0,0
+1683971367366,1049,"HTTP Request for ""Add user""",200,OK,users 3-4,text,true,,710,879,22,70,https://fakestoreapi.com/users,1049,0,0
+1683971367414,1023,"HTTP Request for ""Get a single """,200,OK,cart 2-21,text,true,,832,125,20,69,https://fakestoreapi.com/carts/5,1023,0,0
+1683971368094,389,"HTTP Request for ""Add new cart  """,200,OK,cart 2-12,text,true,,708,343,20,69,https://fakestoreapi.com/carts,389,0,0
+1683971367429,1073,"HTTP Request for ""Delete Users """,200,OK,users 3-9,text,true,,701,212,22,69,https://fakestoreapi.com/users/11,1073,0,0
+1683971367433,1077,"HTTP Request for ""Get in category""",200,OK,products 1-14,text,true,,2246,189,25,68,https://fakestoreapi.com/products/category/jewelery,1074,0,0
+1683971367433,1080,"HTTP Request for ""Delete a product""",200,OK,products 1-7,text,true,,705,196,25,68,https://fakestoreapi.com/products/21,1080,0,0
+1683971367446,1067,"HTTP Request for ""Update users""",200,OK,users 3-8,text,true,,985,808,21,68,https://fakestoreapi.com/users/1,1067,0,0
+1683971368128,397,"HTTP Request for "" Add new product""",200,OK,products 1-9,text,true,,706,424,24,67,https://fakestoreapi.com/products,397,0,0
+1683971368161,385,"HTTP Request for ""Update a cart""",200,OK,cart 2-14,text,true,,702,319,20,67,https://fakestoreapi.com/carts/11,385,0,0
+1683971367092,1459,"HTTP Request for ""Get a single""",200,OK,users 3-17,text,true,,985,125,21,67,https://fakestoreapi.com/users/1,1459,0,0
+1683971367451,1101,"HTTP Request for ""get in date range """,200,OK,cart 2-19,text,true,,1641,163,20,67,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,1101,0,0
+1683971368174,380,"HTTP Request for "" Add new product""",200,OK,products 1-22,text,true,,708,424,24,67,https://fakestoreapi.com/products,380,0,0
+1683971367512,1059,"HTTP Request for ""Sort results """,200,OK,cart 2-29,text,true,,1639,133,20,67,https://fakestoreapi.com/carts?sort=desc,1058,0,0
+1683971368161,408,"HTTP Request for "" Add new product""",200,OK,products 1-19,text,true,,706,424,24,67,https://fakestoreapi.com/products,408,0,0
+1683971367511,1061,"HTTP Request for ""Delete a product""",200,OK,products 1-3,text,true,,699,196,24,67,https://fakestoreapi.com/products/21,1061,0,0
+1683971367513,1059,"HTTP Request for ""Sort results""",200,OK,users 3-29,text,true,,3696,132,21,67,https://fakestoreapi.com/users?sort=asc,1058,0,0
+1683971368181,391,"HTTP Request for ""Limit results""",200,OK,products 1-5,text,true,,3009,179,23,66,https://fakestoreapi.com/products?limit=5,391,0,0
+1683971368203,387,"HTTP Request for ""Update a cart""",200,OK,cart 2-26,text,true,,706,319,20,66,https://fakestoreapi.com/carts/11,387,0,0
+1683971367521,1084,"HTTP Request for ""Get in category""",200,OK,products 1-4,text,true,,2234,189,23,66,https://fakestoreapi.com/products/category/jewelery,1084,0,0
+1683971368232,395,"HTTP Request for "" Add new product""",200,OK,products 1-15,text,true,,714,424,23,66,https://fakestoreapi.com/products,395,0,0
+1683971368239,397,"HTTP Request for "" Add new product""",200,OK,products 1-11,text,true,,704,424,23,66,https://fakestoreapi.com/products,397,0,0
+1683971368250,392,"HTTP Request for ""Sort results ",200,OK,products 1-8,text,true,,11326,181,23,66,https://fakestoreapi.com/products?sort=desc,392,0,0
+1683971367134,1533,"HTTP Request for ""Delete a product""",200,OK,products 1-10,text,true,,697,196,23,66,https://fakestoreapi.com/products/21,1532,0,0
+1683971367520,1152,"HTTP Request for ""Add user""",200,OK,users 3-19,text,true,,708,879,21,65,https://fakestoreapi.com/users,1152,0,0
+1683971367528,1151,"HTTP Request for ""Delete a cart """,200,OK,cart 2-17,text,true,,703,212,20,65,https://fakestoreapi.com/carts/11,1151,0,0
+1683971367601,1106,"HTTP Request for ""Delete a product""",200,OK,products 1-13,text,true,,701,196,22,64,https://fakestoreapi.com/products/21,1106,0,0
+1683971368330,387,"HTTP Request for ""Update a cart""",200,OK,cart 2-30,text,true,,704,319,19,63,https://fakestoreapi.com/carts/11,387,0,0
+1683971368336,380,"HTTP Request for "" Add new product""",200,OK,products 1-24,text,true,,710,424,21,63,https://fakestoreapi.com/products,380,0,0
+1683971367620,1099,"HTTP Request for ""Sort results""",200,OK,users 3-21,text,true,,3692,132,21,63,https://fakestoreapi.com/users?sort=asc,1098,0,0
+1683971367621,1111,"HTTP Request for ""Update users""",200,OK,users 3-22,text,true,,697,809,21,63,https://fakestoreapi.com/users/11,1111,0,0
+1683971367622,1110,"HTTP Request for ""Get a single """,200,OK,cart 2-24,text,true,,828,125,19,63,https://fakestoreapi.com/carts/5,1110,0,0
+1683971368346,388,"HTTP Request for ""Get all categories""",200,OK,products 1-21,text,true,,761,182,21,63,https://fakestoreapi.com/products/categories,388,0,0
+1683971367642,1097,"HTTP Request for ""Delete a product""",200,OK,products 1-6,text,true,,697,196,21,63,https://fakestoreapi.com/products/21,1097,0,0
+1683971368391,386,"HTTP Request for ""Add new cart  """,200,OK,cart 2-27,text,true,,708,343,19,62,https://fakestoreapi.com/carts,386,0,0
+1683971367650,1179,"HTTP Request for ""Delete a product""",200,OK,products 1-1,text,true,,703,196,20,62,https://fakestoreapi.com/products/21,1179,0,0
+1683971367643,1191,"HTTP Request for ""Add user""",200,OK,users 3-23,text,true,,702,879,21,61,https://fakestoreapi.com/users,1191,0,0
+1683971367678,1172,"HTTP Request for ""Add user""",200,OK,users 3-18,text,true,,706,879,21,61,https://fakestoreapi.com/users,1172,0,0
+1683971367692,1182,"HTTP Request for ""Update users""",200,OK,users 3-28,text,true,,703,809,21,61,https://fakestoreapi.com/users/11,1182,0,0
+1683971368483,390,"HTTP Request for ""Update a cart""",200,OK,cart 2-12,text,true,,702,319,19,61,https://fakestoreapi.com/carts/11,390,0,0
+1683971367788,1101,"HTTP Request for ""Get a single """,200,OK,cart 2-2,text,true,,834,125,19,61,https://fakestoreapi.com/carts/5,1101,0,0
+1683971367817,1073,"HTTP Request for ""Delete a cart """,200,OK,cart 2-6,text,true,,703,212,19,61,https://fakestoreapi.com/carts/11,1073,0,0
+1683971367823,1067,"HTTP Request for ""Delete a product""",200,OK,products 1-16,text,true,,697,196,19,61,https://fakestoreapi.com/products/21,1067,0,0
+1683971367774,1119,"HTTP Request for ""get in date range """,200,OK,cart 2-15,text,true,,1633,163,18,59,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,1119,0,0
+1683971368525,378,"HTTP Request for ""Update a product""",200,OK,products 1-9,text,true,,704,425,18,59,https://fakestoreapi.com/products/21,378,0,0
+1683971367817,1099,"HTTP Request for ""Delete a cart """,200,OK,cart 2-25,text,true,,701,212,18,59,https://fakestoreapi.com/carts/11,1099,0,0
+1683971368509,406,"HTTP Request for "" Add new product""",200,OK,products 1-14,text,true,,700,424,18,59,https://fakestoreapi.com/products,406,0,0
+1683971358798,10140,"HTTP Request for ""Get all products""",200,OK,products 1-23,text,true,,11328,171,18,58,https://fakestoreapi.com/products,10138,0,9753
+1683971368555,401,"HTTP Request for ""Update a product""",200,OK,products 1-22,text,true,,704,425,18,58,https://fakestoreapi.com/products/21,401,0,0
+1683971368573,391,"HTTP Request for ""Sort results ",200,OK,products 1-5,text,true,,11322,181,18,58,https://fakestoreapi.com/products?sort=desc,390,0,0
+1683971368570,394,"HTTP Request for ""Update a product""",200,OK,products 1-19,text,true,,708,425,18,58,https://fakestoreapi.com/products/21,394,0,0
+1683971368604,384,"HTTP Request for "" Add new product""",200,OK,products 1-4,text,true,,702,424,18,58,https://fakestoreapi.com/products,384,0,0
+1683971367837,1157,"HTTP Request for ""Delete Users """,200,OK,users 3-30,text,true,,705,212,21,58,https://fakestoreapi.com/users/11,1157,0,0
+1683971367881,1117,"HTTP Request for ""Get in category""",200,OK,products 1-26,text,true,,2236,189,18,57,https://fakestoreapi.com/products/category/jewelery,1116,0,0
+1683971367828,1170,"HTTP Request for ""Delete a cart """,200,OK,cart 2-16,text,true,,703,212,17,57,https://fakestoreapi.com/carts/11,1170,0,0
+1683971368627,381,"HTTP Request for ""Update a product""",200,OK,products 1-15,text,true,,708,425,18,56,https://fakestoreapi.com/products/21,381,0,0
+1683971367932,1082,"HTTP Request for ""Delete Users """,200,OK,users 3-14,text,true,,707,212,20,56,https://fakestoreapi.com/users/11,1082,0,0
+1683971367931,1088,"HTTP Request for ""Delete a cart """,200,OK,cart 2-18,text,true,,711,212,16,55,https://fakestoreapi.com/carts/11,1088,0,0
+1683971368636,385,"HTTP Request for ""Update a product""",200,OK,products 1-11,text,true,,710,425,18,54,https://fakestoreapi.com/products/21,385,0,0
+1683971367916,1115,"HTTP Request for ""Update users""",200,OK,users 3-5,text,true,,711,809,19,54,https://fakestoreapi.com/users/11,1115,0,0
+1683971368643,387,"HTTP Request for ""Get all categories""",200,OK,products 1-8,text,true,,765,182,18,54,https://fakestoreapi.com/products/categories,387,0,0
+1683971367960,1078,"HTTP Request for ""get user cart""",200,OK,cart 2-4,text,true,,830,130,15,54,https://fakestoreapi.com/carts/user/2,1078,0,0
+1683971367963,1079,"HTTP Request for ""Delete a product""",200,OK,products 1-20,text,true,,699,196,18,54,https://fakestoreapi.com/products/21,1079,0,0
+1683971368014,1031,"HTTP Request for ""Update users""",200,OK,users 3-13,text,true,,699,809,19,53,https://fakestoreapi.com/users/11,1031,0,0
+1683971368078,997,"HTTP Request for ""Get a single""",200,OK,users 3-26,text,true,,987,125,19,53,https://fakestoreapi.com/users/1,997,0,0
+1683971368717,390,"HTTP Request for ""Update a product""",200,OK,products 1-24,text,true,,706,425,17,53,https://fakestoreapi.com/products/21,390,0,0
+1683971368096,1054,"HTTP Request for ""Delete Users """,200,OK,users 3-12,text,true,,713,212,19,53,https://fakestoreapi.com/users/11,1054,0,0
+1683971368093,1060,"HTTP Request for ""Delete a product""",200,OK,products 1-28,text,true,,699,196,17,52,https://fakestoreapi.com/products/21,1060,0,0
+1683971368116,1062,"HTTP Request for ""get user cart""",200,OK,cart 2-8,text,true,,836,130,15,51,https://fakestoreapi.com/carts/user/2,1062,0,0
+1683971368143,1040,"HTTP Request for ""Delete a product""",200,OK,products 1-2,text,true,,695,196,16,51,https://fakestoreapi.com/products/21,1040,0,0
+1683971368778,405,"HTTP Request for ""Update a cart""",200,OK,cart 2-27,text,true,,704,319,15,51,https://fakestoreapi.com/carts/11,405,0,0
+1683971368094,1091,"HTTP Request for ""Limit results""",200,OK,users 3-6,text,true,,2182,131,18,50,https://fakestoreapi.com/users?limit=5,1091,0,0
+1683971368276,927,"HTTP Request for ""Delete Users """,200,OK,users 3-27,text,true,,699,212,18,50,https://fakestoreapi.com/users/11,927,0,0
+1683971368343,860,"HTTP Request for ""Delete Users """,200,OK,users 3-25,text,true,,703,212,18,50,https://fakestoreapi.com/users/11,860,0,0
+1683971358794,10410,"HTTP Request for ""Get all """,200,OK,cart 2-22,text,true,,1645,123,15,49,https://fakestoreapi.com/carts,10410,0,9451
+1683971368346,861,"HTTP Request for ""Delete Users """,200,OK,users 3-7,text,true,,701,212,16,48,https://fakestoreapi.com/users/11,861,0,0
+1683971368359,884,"HTTP Request for ""Limit results""",200,OK,users 3-24,text,true,,2186,131,15,47,https://fakestoreapi.com/users?limit=5,884,0,0
+1683971368916,388,"HTTP Request for ""Update a product""",200,OK,products 1-14,text,true,,708,425,15,47,https://fakestoreapi.com/products/21,388,0,0
+1683971368408,916,"HTTP Request for ""Delete a product""",200,OK,products 1-25,text,true,,707,196,15,47,https://fakestoreapi.com/products/21,916,0,0
+1683971368384,944,"HTTP Request for ""get user cart""",200,OK,cart 2-11,text,true,,836,130,15,46,https://fakestoreapi.com/carts/user/2,944,0,0
+1683971368938,396,"HTTP Request for ""Get a single product""",200,OK,products 1-23,text,true,,1065,173,14,46,https://fakestoreapi.com/products/1,396,0,0
+1683971368415,923,"HTTP Request for ""Update users""",200,OK,users 3-4,text,true,,695,809,15,46,https://fakestoreapi.com/users/11,923,0,0
+1683971368513,833,"HTTP Request for ""Delete Users """,200,OK,users 3-8,text,true,,993,211,15,46,https://fakestoreapi.com/users/1,833,0,0
+1683971368437,909,"HTTP Request for ""Limitresults """,200,OK,cart 2-21,text,true,,1407,131,15,46,https://fakestoreapi.com/carts?limit=5,909,0,0
+1683971368964,387,"HTTP Request for ""Get all categories""",200,OK,products 1-5,text,true,,757,182,14,45,https://fakestoreapi.com/products/categories,387,0,0
+1683971368546,812,"HTTP Request for ""Delete a cart """,200,OK,cart 2-14,text,true,,703,212,15,45,https://fakestoreapi.com/carts/11,812,0,0
+1683971368552,809,"HTTP Request for ""get user cart""",200,OK,cart 2-19,text,true,,836,130,14,44,https://fakestoreapi.com/carts/user/2,809,0,0
+1683971368550,814,"HTTP Request for ""Limit results""",200,OK,users 3-17,text,true,,2186,131,14,44,https://fakestoreapi.com/users?limit=5,814,0,0
+1683971368570,799,"HTTP Request for ""get in date range """,200,OK,cart 2-29,text,true,,1637,163,14,44,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,799,0,0
+1683971368989,390,"HTTP Request for ""Update a product""",200,OK,products 1-4,text,true,,708,425,14,44,https://fakestoreapi.com/products/21,390,0,0
+1683971368997,386,"HTTP Request for "" Add new product""",200,OK,products 1-26,text,true,,700,424,14,44,https://fakestoreapi.com/products,386,0,0
+1683971369037,388,"HTTP Request for ""Add new cart  """,200,OK,cart 2-4,text,true,,708,343,14,44,https://fakestoreapi.com/carts,388,0,0
+1683971368590,890,"HTTP Request for ""Delete a cart """,200,OK,cart 2-26,text,true,,697,212,14,44,https://fakestoreapi.com/carts/11,890,0,0
+1683971368571,914,"HTTP Request for ""Add user""",200,OK,users 3-29,text,true,,706,879,14,43,https://fakestoreapi.com/users,913,0,0
+1683971368672,827,"HTTP Request for ""Update users""",200,OK,users 3-19,text,true,,697,809,14,43,https://fakestoreapi.com/users/11,827,0,0
+1683971368717,784,"HTTP Request for ""Delete a cart """,200,OK,cart 2-30,text,true,,703,212,13,43,https://fakestoreapi.com/carts/11,784,0,0
+1683971368718,798,"HTTP Request for ""Add user""",200,OK,users 3-21,text,true,,708,879,14,42,https://fakestoreapi.com/users,798,0,0
+1683971368731,795,"HTTP Request for ""Limitresults """,200,OK,cart 2-24,text,true,,1395,131,12,42,https://fakestoreapi.com/carts?limit=5,794,0,0
+1683971368734,792,"HTTP Request for ""Get in category""",200,OK,products 1-21,text,true,,2242,189,14,42,https://fakestoreapi.com/products/category/jewelery,792,0,0
+1683971368731,797,"HTTP Request for ""Delete Users """,200,OK,users 3-22,text,true,,701,212,14,42,https://fakestoreapi.com/users/11,797,0,0
+1683971368833,721,"HTTP Request for ""Update users""",200,OK,users 3-23,text,true,,699,809,13,41,https://fakestoreapi.com/users/11,721,0,0
+1683971369178,392,"HTTP Request for ""Add new cart  """,200,OK,cart 2-8,text,true,,702,343,12,41,https://fakestoreapi.com/carts,392,0,0
+1683971368874,769,"HTTP Request for ""Delete a cart """,200,OK,cart 2-12,text,true,,707,212,12,41,https://fakestoreapi.com/carts/11,769,0,0
+1683971368850,793,"HTTP Request for ""Update users""",200,OK,users 3-18,text,true,,697,809,13,41,https://fakestoreapi.com/users/11,793,0,0
+1683971368893,759,"HTTP Request for ""get user cart""",200,OK,cart 2-15,text,true,,834,130,11,40,https://fakestoreapi.com/carts/user/2,759,0,0
+1683971368873,781,"HTTP Request for ""Delete Users """,200,OK,users 3-28,text,true,,703,212,13,40,https://fakestoreapi.com/users/11,781,0,0
+1683971368904,766,"HTTP Request for ""Delete a product""",200,OK,products 1-9,text,true,,701,196,14,39,https://fakestoreapi.com/products/21,766,0,0
+1683971368957,720,"HTTP Request for ""Delete a product""",200,OK,products 1-22,text,true,,705,196,13,38,https://fakestoreapi.com/products/21,720,0,0
+1683971368888,789,"HTTP Request for ""Limitresults """,200,OK,cart 2-2,text,true,,1395,131,11,38,https://fakestoreapi.com/carts?limit=5,789,0,0
+1683971369008,676,"HTTP Request for ""Delete a product""",200,OK,products 1-15,text,true,,701,196,12,37,https://fakestoreapi.com/products/21,676,0,0
+1683971368964,721,"HTTP Request for ""Delete a product""",200,OK,products 1-19,text,true,,699,196,11,36,https://fakestoreapi.com/products/21,721,0,0
+1683971369021,694,"HTTP Request for ""Delete a product""",200,OK,products 1-11,text,true,,713,196,10,35,https://fakestoreapi.com/products/21,694,0,0
+1683971369328,387,"HTTP Request for ""Add new cart  """,200,OK,cart 2-11,text,true,,712,343,11,35,https://fakestoreapi.com/carts,387,0,0
+1683971369334,391,"HTTP Request for ""Limit results""",200,OK,products 1-23,text,true,,3009,179,9,34,https://fakestoreapi.com/products?limit=5,391,0,0
+1683971369361,397,"HTTP Request for ""Add new cart  """,200,OK,cart 2-19,text,true,,702,343,11,34,https://fakestoreapi.com/carts,397,0,0
+1683971369384,375,"HTTP Request for ""Update a product""",200,OK,products 1-26,text,true,,714,425,9,34,https://fakestoreapi.com/products/21,375,0,0
+1683971369031,766,"HTTP Request for ""Delete Users """,200,OK,users 3-5,text,true,,699,212,12,34,https://fakestoreapi.com/users/11,766,0,0
+1683971369426,390,"HTTP Request for ""Update a cart""",200,OK,cart 2-4,text,true,,706,319,11,33,https://fakestoreapi.com/carts/11,389,0,0
+1683971369031,785,"HTTP Request for ""Get in category""",200,OK,products 1-8,text,true,,2238,189,9,33,https://fakestoreapi.com/products/category/jewelery,785,0,0
+1683971369075,741,"HTTP Request for ""Limit results""",200,OK,users 3-26,text,true,,2198,131,11,33,https://fakestoreapi.com/users?limit=5,741,0,0
+1683971369045,771,"HTTP Request for ""Delete Users """,200,OK,users 3-13,text,true,,705,212,11,33,https://fakestoreapi.com/users/11,771,0,0
+1683971369183,651,"HTTP Request for ""Delete a cart """,200,OK,cart 2-27,text,true,,705,212,11,32,https://fakestoreapi.com/carts/11,651,0,0
+1683971369107,728,"HTTP Request for ""Delete a product""",200,OK,products 1-24,text,true,,701,196,9,32,https://fakestoreapi.com/products/21,728,0,0
+1683971369184,656,"HTTP Request for ""Sort results""",200,OK,users 3-6,text,true,,3694,132,10,30,https://fakestoreapi.com/users?sort=asc,656,0,0
+1683971369204,643,"HTTP Request for ""Get a single """,200,OK,cart 2-22,text,true,,832,125,10,30,https://fakestoreapi.com/carts/5,643,0,0
+1683971369244,607,"HTTP Request for ""Sort results""",200,OK,users 3-24,text,true,,3700,132,10,30,https://fakestoreapi.com/users?sort=asc,606,0,0
+1683971369304,579,"HTTP Request for ""Delete a product""",200,OK,products 1-14,text,true,,705,196,8,30,https://fakestoreapi.com/products/21,578,0,0
+1683971369526,395,"HTTP Request for "" Add new product""",200,OK,products 1-21,text,true,,702,424,7,29,https://fakestoreapi.com/products,395,0,0
+1683971369571,395,"HTTP Request for ""Update a cart""",200,OK,cart 2-8,text,true,,706,319,10,29,https://fakestoreapi.com/carts/11,395,0,0
+1683971369338,634,"HTTP Request for ""Delete Users """,200,OK,users 3-4,text,true,,699,212,10,29,https://fakestoreapi.com/users/11,634,0,0
+1683971369351,622,"HTTP Request for ""Get in category""",200,OK,products 1-5,text,true,,2244,189,7,29,https://fakestoreapi.com/products/category/jewelery,621,0,0
+1683971369369,615,"HTTP Request for ""get user cart""",200,OK,cart 2-29,text,true,,830,130,10,28,https://fakestoreapi.com/carts/user/2,615,0,0
+1683971369346,644,"HTTP Request for ""Sort results """,200,OK,cart 2-21,text,true,,1633,133,10,28,https://fakestoreapi.com/carts?sort=desc,644,0,0
+1683971369364,633,"HTTP Request for ""Sort results""",200,OK,users 3-17,text,true,,3688,132,9,28,https://fakestoreapi.com/users?sort=asc,633,0,0
+1683971369379,625,"HTTP Request for ""Delete a product""",200,OK,products 1-4,text,true,,705,196,7,28,https://fakestoreapi.com/products/21,625,0,0
+1683971369485,564,"HTTP Request for ""Update users""",200,OK,users 3-29,text,true,,695,809,9,27,https://fakestoreapi.com/users/11,563,0,0
+1683971369653,400,"HTTP Request for ""Add new cart  """,200,OK,cart 2-15,text,true,,708,343,10,27,https://fakestoreapi.com/carts,400,0,0
+1683971369499,569,"HTTP Request for ""Delete Users """,200,OK,users 3-19,text,true,,703,212,9,27,https://fakestoreapi.com/users/11,569,0,0
+1683971369516,562,"HTTP Request for ""Update users""",200,OK,users 3-21,text,true,,705,809,8,26,https://fakestoreapi.com/users/11,562,0,0
+1683971369526,571,"HTTP Request for ""Sort results """,200,OK,cart 2-24,text,true,,1633,133,10,26,https://fakestoreapi.com/carts?sort=desc,571,0,0
+1683971369715,389,"HTTP Request for ""Update a cart""",200,OK,cart 2-11,text,true,,704,319,10,26,https://fakestoreapi.com/carts/11,389,0,0
+1683971369725,398,"HTTP Request for ""Sort results ",200,OK,products 1-23,text,true,,11320,181,6,26,https://fakestoreapi.com/products?sort=desc,397,0,0
+1683971369554,586,"HTTP Request for ""Delete Users """,200,OK,users 3-23,text,true,,703,212,8,26,https://fakestoreapi.com/users/11,586,0,0
+1683971369758,383,"HTTP Request for ""Update a cart""",200,OK,cart 2-19,text,true,,702,319,10,25,https://fakestoreapi.com/carts/11,383,0,0
+1683971369817,391,"HTTP Request for "" Add new product""",200,OK,products 1-8,text,true,,704,424,6,25,https://fakestoreapi.com/products,391,0,0
+1683971369644,565,"HTTP Request for ""Delete Users """,200,OK,users 3-18,text,true,,705,212,7,25,https://fakestoreapi.com/users/11,565,0,0
+1683971369677,564,"HTTP Request for ""Sort results """,200,OK,cart 2-2,text,true,,1639,133,10,24,https://fakestoreapi.com/carts?sort=desc,564,0,0
+1683971369921,407,"HTTP Request for ""Update a product""",200,OK,products 1-21,text,true,,708,425,6,24,https://fakestoreapi.com/products/21,407,0,0
+1683971369759,569,"HTTP Request for ""Delete a product""",200,OK,products 1-26,text,true,,701,196,6,24,https://fakestoreapi.com/products/21,569,0,0
+1683971369816,546,"HTTP Request for ""Delete a cart """,200,OK,cart 2-4,text,true,,699,212,10,23,https://fakestoreapi.com/carts/11,546,0,0
+1683971369984,384,"HTTP Request for ""Add new cart  """,200,OK,cart 2-29,text,true,,708,343,9,22,https://fakestoreapi.com/carts,384,0,0
+1683971369817,559,"HTTP Request for ""Sort results""",200,OK,users 3-26,text,true,,3692,132,6,22,https://fakestoreapi.com/users?sort=asc,558,0,0
+1683971369840,548,"HTTP Request for ""Add user""",200,OK,users 3-6,text,true,,704,879,6,22,https://fakestoreapi.com/users,547,0,0
+1683971369847,546,"HTTP Request for ""Limitresults """,200,OK,cart 2-22,text,true,,1397,131,9,22,https://fakestoreapi.com/carts?limit=5,546,0,0
+1683971369851,554,"HTTP Request for ""Add user""",200,OK,users 3-24,text,true,,706,879,6,22,https://fakestoreapi.com/users,554,0,0
+1683971369973,439,"HTTP Request for "" Add new product""",200,OK,products 1-5,text,true,,704,424,5,22,https://fakestoreapi.com/products,439,0,0
+1683971370053,382,"HTTP Request for ""Update a cart""",200,OK,cart 2-15,text,true,,708,319,9,22,https://fakestoreapi.com/carts/11,382,0,0
+1683971370123,391,"HTTP Request for ""Get all categories""",200,OK,products 1-23,text,true,,757,182,5,22,https://fakestoreapi.com/products/categories,391,0,0
+1683971369967,547,"HTTP Request for ""Delete a cart """,200,OK,cart 2-8,text,true,,705,212,9,22,https://fakestoreapi.com/carts/11,547,0,0
+1683971369990,564,"HTTP Request for ""get in date range """,200,OK,cart 2-21,text,true,,1643,163,8,21,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,562,0,0
+1683971369997,557,"HTTP Request for ""Add user""",200,OK,users 3-17,text,true,,702,879,6,21,https://fakestoreapi.com/users,557,0,0
+1683971370209,402,"HTTP Request for ""Update a product""",200,OK,products 1-8,text,true,,710,425,5,21,https://fakestoreapi.com/products/21,402,0,0
+1683971370049,569,"HTTP Request for ""Delete Users """,200,OK,users 3-29,text,true,,701,212,6,21,https://fakestoreapi.com/users/11,569,0,0
+1683971370078,546,"HTTP Request for ""Delete Users """,200,OK,users 3-21,text,true,,701,212,5,20,https://fakestoreapi.com/users/11,546,0,0
+1683971370105,563,"HTTP Request for ""Delete a cart """,200,OK,cart 2-11,text,true,,709,212,8,19,https://fakestoreapi.com/carts/11,563,0,0
+1683971370097,579,"HTTP Request for ""get in date range """,200,OK,cart 2-24,text,true,,1641,163,7,18,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,579,0,0
+1683971370142,550,"HTTP Request for ""Delete a cart """,200,OK,cart 2-19,text,true,,703,212,7,18,https://fakestoreapi.com/carts/11,550,0,0
+1683971370368,390,"HTTP Request for ""Update a cart""",200,OK,cart 2-29,text,true,,714,319,6,17,https://fakestoreapi.com/carts/11,390,0,0
+1683971370412,386,"HTTP Request for ""Update a product""",200,OK,products 1-5,text,true,,706,425,5,17,https://fakestoreapi.com/products/21,386,0,0
+1683971370241,566,"HTTP Request for ""get in date range """,200,OK,cart 2-2,text,true,,1633,163,6,17,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,565,0,0
+1683971370328,556,"HTTP Request for ""Delete a product""",200,OK,products 1-21,text,true,,703,196,5,17,https://fakestoreapi.com/products/21,556,0,0
+1683971370376,542,"HTTP Request for ""Add user""",200,OK,users 3-26,text,true,,707,879,4,16,https://fakestoreapi.com/users,542,0,0
+1683971370388,547,"HTTP Request for ""Update users""",200,OK,users 3-6,text,true,,697,809,4,16,https://fakestoreapi.com/users/11,547,0,0
+1683971370394,551,"HTTP Request for ""Sort results """,200,OK,cart 2-22,text,true,,1639,133,6,16,https://fakestoreapi.com/carts?sort=desc,551,0,0
+1683971370406,547,"HTTP Request for ""Update users""",200,OK,users 3-24,text,true,,705,809,4,16,https://fakestoreapi.com/users/11,547,0,0
+1683971370435,542,"HTTP Request for ""Delete a cart """,200,OK,cart 2-15,text,true,,701,212,6,16,https://fakestoreapi.com/carts/11,542,0,0
+1683971370514,557,"HTTP Request for ""Get in category""",200,OK,products 1-23,text,true,,2248,189,4,15,https://fakestoreapi.com/products/category/jewelery,557,0,0
+1683971370554,577,"HTTP Request for ""get user cart""",200,OK,cart 2-21,text,true,,830,130,5,15,https://fakestoreapi.com/carts/user/2,577,0,0
+1683971370554,578,"HTTP Request for ""Update users""",200,OK,users 3-17,text,true,,699,809,4,15,https://fakestoreapi.com/users/11,578,0,0
+1683971359116,12050,"HTTP Request for ""Get all products""",200,OK,products 1-30,text,true,,11318,171,4,15,https://fakestoreapi.com/products,12050,0,11654
+1683971370611,560,"HTTP Request for ""Delete a product""",200,OK,products 1-8,text,true,,701,196,4,15,https://fakestoreapi.com/products/21,560,0,0
+1683971370677,577,"HTTP Request for ""get user cart""",200,OK,cart 2-24,text,true,,830,130,5,14,https://fakestoreapi.com/carts/user/2,577,0,0
+1683971359129,12201,"HTTP Request for ""Login""",200,OK,Login 4-28,text,true,,850,276,2,14,https://fakestoreapi.com/auth/login,12201,0,11654
+1683971370758,575,"HTTP Request for ""Delete a cart """,200,OK,cart 2-29,text,true,,705,212,5,13,https://fakestoreapi.com/carts/11,575,0,0
+1683971359140,12195,"HTTP Request for ""Login""",200,OK,Login 4-30,text,true,,852,276,1,12,https://fakestoreapi.com/auth/login,12195,0,11638
+1683971370798,542,"HTTP Request for ""Delete a product""",200,OK,products 1-5,text,true,,695,196,3,11,https://fakestoreapi.com/products/21,542,0,0
+1683971370807,561,"HTTP Request for ""get user cart""",200,OK,cart 2-2,text,true,,834,130,4,10,https://fakestoreapi.com/carts/user/2,561,0,0
+1683971371071,401,"HTTP Request for "" Add new product""",200,OK,products 1-23,text,true,,704,424,2,10,https://fakestoreapi.com/products,401,0,0
+1683971370919,554,"HTTP Request for ""Update users""",200,OK,users 3-26,text,true,,989,808,4,10,https://fakestoreapi.com/users/1,554,0,0
+1683971370935,548,"HTTP Request for ""Delete Users """,200,OK,users 3-6,text,true,,701,212,4,10,https://fakestoreapi.com/users/11,548,0,0
+1683971370946,540,"HTTP Request for ""get in date range """,200,OK,cart 2-22,text,true,,1635,163,4,9,https://fakestoreapi.com/carts?startdate=2019-12-10&enddate=2020-10-01,539,0,0
+1683971370954,607,"HTTP Request for ""Delete Users """,200,OK,users 3-24,text,true,,703,212,3,9,https://fakestoreapi.com/users/11,607,0,0
+1683971371167,395,"HTTP Request for ""Get a single product""",200,OK,products 1-30,text,true,,1057,173,2,9,https://fakestoreapi.com/products/1,395,0,0
+1683971371131,430,"HTTP Request for ""Add new cart  """,200,OK,cart 2-21,text,true,,708,343,4,9,https://fakestoreapi.com/carts,430,0,0
+1683971371254,387,"HTTP Request for ""Add new cart  """,200,OK,cart 2-24,text,true,,704,343,4,8,https://fakestoreapi.com/carts,386,0,0
+1683971371133,546,"HTTP Request for ""Delete Users """,200,OK,users 3-17,text,true,,713,212,2,8,https://fakestoreapi.com/users/11,546,0,0
+1683971371369,391,"HTTP Request for ""Add new cart  """,200,OK,cart 2-2,text,true,,700,343,4,7,https://fakestoreapi.com/carts,391,0,0
+1683971371562,381,"HTTP Request for ""Update a cart""",200,OK,cart 2-21,text,true,,706,319,4,7,https://fakestoreapi.com/carts/11,381,0,0
+1683971371562,389,"HTTP Request for ""Limit results""",200,OK,products 1-30,text,true,,3009,179,2,7,https://fakestoreapi.com/products?limit=5,389,0,0
+1683971371473,483,"HTTP Request for ""Update a product""",200,OK,products 1-23,text,true,,710,425,2,7,https://fakestoreapi.com/products/21,483,0,0
+1683971371641,381,"HTTP Request for ""Update a cart""",200,OK,cart 2-24,text,true,,704,319,4,7,https://fakestoreapi.com/carts/11,381,0,0
+1683971371473,636,"HTTP Request for ""Delete Users """,200,OK,users 3-26,text,true,,987,211,1,7,https://fakestoreapi.com/users/1,636,0,0
+1683971371486,640,"HTTP Request for ""get user cart""",200,OK,cart 2-22,text,true,,842,130,4,6,https://fakestoreapi.com/carts/user/2,640,0,0
+1683971371761,555,"HTTP Request for ""Update a cart""",200,OK,cart 2-2,text,true,,708,319,4,6,https://fakestoreapi.com/carts/11,555,0,0
+1683971371951,392,"HTTP Request for ""Sort results ",200,OK,products 1-30,text,true,,11326,181,2,6,https://fakestoreapi.com/products?sort=desc,391,0,0
+1683971371943,542,"HTTP Request for ""Delete a cart """,200,OK,cart 2-21,text,true,,697,212,4,6,https://fakestoreapi.com/carts/11,542,0,0
+1683971371956,548,"HTTP Request for ""Delete a product""",200,OK,products 1-23,text,true,,699,196,2,5,https://fakestoreapi.com/products/21,548,0,0
+1683971372127,392,"HTTP Request for ""Add new cart  """,200,OK,cart 2-22,text,true,,706,343,3,4,https://fakestoreapi.com/carts,392,0,0
+1683971372022,555,"HTTP Request for ""Delete a cart """,200,OK,cart 2-24,text,true,,705,212,3,4,https://fakestoreapi.com/carts/11,555,0,0
+1683971372343,390,"HTTP Request for ""Get all categories""",200,OK,products 1-30,text,true,,759,182,1,3,https://fakestoreapi.com/products/categories,390,0,0
+1683971372317,553,"HTTP Request for ""Delete a cart """,200,OK,cart 2-2,text,true,,703,212,2,3,https://fakestoreapi.com/carts/11,553,0,0
+1683971372519,387,"HTTP Request for ""Update a cart""",200,OK,cart 2-22,text,true,,710,319,1,2,https://fakestoreapi.com/carts/11,387,0,0
+1683971372734,626,"HTTP Request for ""Get in category""",200,OK,products 1-30,text,true,,2240,189,1,2,https://fakestoreapi.com/products/category/jewelery,625,0,0
+1683971372906,586,"HTTP Request for ""Delete a cart """,200,OK,cart 2-22,text,true,,703,212,1,2,https://fakestoreapi.com/carts/11,586,0,0
+1683971373360,421,"HTTP Request for "" Add new product""",200,OK,products 1-30,text,true,,716,424,1,1,https://fakestoreapi.com/products,421,0,0
+1683971373782,642,"HTTP Request for ""Update a product""",200,OK,products 1-30,text,true,,706,425,1,1,https://fakestoreapi.com/products/21,642,0,0
+1683971374424,623,"HTTP Request for ""Delete a product""",200,OK,products 1-30,text,true,,713,196,1,1,https://fakestoreapi.com/products/21,623,0,0
